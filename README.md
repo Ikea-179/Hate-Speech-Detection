@@ -1,1 +1,1 @@
-This repo contains all the source used for the Final Project - Hate Speech Detection for the course CS2470
+This repo contains all the source used for the Final Project - Stop Hate Coalition for the course CS2470

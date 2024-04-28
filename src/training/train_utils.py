@@ -1,5 +1,6 @@
 import time
 import numpy as np
+import os
 
 import tqdm
 import copy
@@ -9,7 +10,7 @@ import torch.nn as nn
 
 from sklearn.metrics import f1_score
 
-from src.utils.utils import SAVED_MODELS_PATH
+from utils.utils import SAVED_MODELS_PATH
 
 def train_model(model, criterion, optimizer, dataloaders, history_training, 
                 scheduler=None, num_epochs=10, patience_es=5, training_remaining=1,
@@ -344,10 +345,14 @@ class EarlyStopping:
 
     def save_checkpoint(self, val_loss, val_acc, model):
         '''Saves model when validation loss decrease.'''
+
+        if not os.path.exists('saved-models'):
+            os.makedirs('saved-models')
+
         if self.verbose:
             if self.save_condition == 'loss':
                 print(f'Validation loss decreased ({self.score_min:.6f} --> {val_loss:.6f}).  Saving model ...')
             elif self.save_condition == 'acc':
                 print(f'Validation acc increased ({self.score_min:.6f} --> {val_acc:.6f}).  Saving model ...')
-        torch.save(model.state_dict(), self.path)
+        torch.save(model.state_dict(), 'saved-models/model.pth')
         self.score_min = val_loss

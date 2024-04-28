@@ -94,10 +94,13 @@ def create_fields_dataset(model_type, data_type,fix_length=None, module_path='')
     else:
         spacy_en = spacy.load("en_core_web_sm")
         spacy_fr = spacy.load("fr_core_news_sm")
+        spacy_gr = spacy.load("de_core_news_sm")
         if data_type == "en":
             spacy_token = spacy_en
         if data_type == "fr":
             spacy_token = spacy_fr
+        if data_type == "gr":
+            spacy_token = spacy_gr
         def tokenizer_func(text):
             return [tok.text for tok in spacy_token.tokenizer(text)]
 
@@ -155,6 +158,11 @@ def get_datasets(training_data, testset_data, test_labels_data, model_type, data
         training_data = pd.read_csv("data/french_train.csv")
         tweets, classes = format_training_french_file(training_data, module_path=module_path)
         testset_data = pd.read_csv("data/french_test.csv")
+        tweets_test, y_test = format_training_french_file(testset_data, module_path=module_path)
+    elif data_type == "gr":
+        training_data = pd.read_csv("data/german_train.csv")
+        tweets, classes = format_training_french_file(training_data, module_path=module_path)
+        testset_data = pd.read_csv("data/german_test.csv")
         tweets_test, y_test = format_training_french_file(testset_data, module_path=module_path)
     print("file loaded and formatted..")
     train_val_split_tocsv(tweets, classes, val_size=0.2, module_path=module_path)

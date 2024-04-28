@@ -35,6 +35,19 @@ def format_training_file(text_file, module_path=''):
 
     return tweets[1:], classes[1:]
 
+def format_training_french_file(data, module_path=''):
+    data['text'] = data['text'].apply(lambda x: re.sub(r'#([^ ]*)', r'\1', x))
+    # Replace URLs with 'URL'
+    data['text'] = data['text'].apply(lambda x: re.sub(r'https?://\S+', 'URL', x))
+    # Convert emojis to their textual representation
+    data['text'] = data['text'].apply(emoji.demojize)
+    # Ensure spaces around emoji textual representations
+    data['text'] = data['text'].apply(lambda x: re.sub(r'(:[^:\s]+:)', r' \1 ', x))
+    # Normalize multiple spaces to a single space
+    data['text'] = data['text'].apply(lambda x: re.sub(' +', ' ', x))
+    return data['text'].tolist(), data['label'].tolist()
+
+
 def train_val_split_tocsv(tweets, classes, val_size=0.2, module_path=''):
     tweets_train, tweets_val, y_train, y_val = train_test_split(tweets, classes, test_size=val_size, random_state=42)
 
@@ -66,7 +79,7 @@ def test_tocsv(tweets_test, y_test, module_path=''):
     df_test = pd.DataFrame({'text': tweets_test, 'label': y_test})
     df_test.to_csv(module_path+'data/offenseval_test.csv', index=False)
 
-def create_fields_dataset(model_type, fix_length=None, module_path=''):
+def create_fields_dataset(model_type, data_type,fix_length=None, module_path=''):
     tokenizer = None
     if model_type == "DistillBert":
         tokenizer = transformers.DistilBertTokenizer.from_pretrained("distilbert-base-uncased")
@@ -80,8 +93,13 @@ def create_fields_dataset(model_type, fix_length=None, module_path=''):
         field = Field(use_vocab=False, tokenize=tokenizer.encode, pad_token=pad_index, fix_length=fix_length)
     else:
         spacy_en = spacy.load("en_core_web_sm")
+        spacy_fr = spacy.load("fr_core_news_sm")
+        if data_type == "en":
+            spacy_token = spacy_en
+        if data_type == "fr":
+            spacy_token = spacy_fr
         def tokenizer_func(text):
-            return [tok.text for tok in spacy_en.tokenizer(text)]
+            return [tok.text for tok in spacy_token.tokenizer(text)]
 
         field = Field(sequential=True, use_vocab=True, tokenize=tokenizer_func, lower=True, fix_length=fix_length,
                       stop_words = nltk.corpus.stopwords.words('english'))
@@ -128,16 +146,22 @@ def get_vocab_stoi_itos(field, tokenizer=None):
         vocab_itos = field.vocab.itos
     return (vocab_stoi, vocab_itos)
 
-def get_datasets(training_data, testset_data, test_labels_data, model_type, fix_length=None, module_path=''):
+def get_datasets(training_data, testset_data, test_labels_data, model_type, data_type,fix_length=None, module_path=''):
     # preprocessing of the train/validation tweets, then test tweets
-    tweets, classes = format_training_file(training_data, module_path=module_path)
-    tweets_test, y_test = format_test_file(testset_data, test_labels_data, module_path=module_path)
+    if data_type == "en":
+        tweets, classes = format_training_file(training_data, module_path=module_path)
+        tweets_test, y_test = format_test_file(testset_data, test_labels_data, module_path=module_path)
+    elif data_type == "fr":
+        training_data = pd.read_csv("data/french_train.csv")
+        tweets, classes = format_training_french_file(training_data, module_path=module_path)
+        testset_data = pd.read_csv("data/french_test.csv")
+        tweets_test, y_test = format_training_french_file(testset_data, module_path=module_path)
     print("file loaded and formatted..")
     train_val_split_tocsv(tweets, classes, val_size=0.2, module_path=module_path)
     test_tocsv(tweets_test, y_test, module_path=module_path)
     print("data split into train/val/test")
 
-    field, tokenizer, label, train_data, val_data, test_data = create_fields_dataset(model_type, fix_length, 
+    field, tokenizer, label, train_data, val_data, test_data = create_fields_dataset(model_type,data_type, fix_length, 
                                                                                      module_path=module_path)
 
     # build vocabularies using training set

@@ -155,7 +155,7 @@ if __name__ == '__main__':
     parser.add_argument('--fcs', default="128,256", help='delimited list for fcs input', type=str)
     parser.add_argument("--batch_norm", default=1, type=int, help="")
     parser.add_argument("--alpha", default=0.8, type=int, help="")
-
+    parser.add_argument("--data_type", default="en",  help="")
     args = parser.parse_args()
 
     # Data processing
@@ -165,6 +165,7 @@ if __name__ == '__main__':
 
     # Hyperparameters
     model_type = args.model
+    data_type = args.data_type
     optimizer_type = args.optimizer_type
     loss_criterion = args.loss_criterion
     lr = args.lr
@@ -200,7 +201,7 @@ if __name__ == '__main__':
 
     print("Device:", device)
 
-    field, tokenizer, train_data, val_data, test_data = get_datasets(training_data, testset_data, test_labels_data, model_type, fix_length)
+    field, tokenizer, train_data, val_data, test_data = get_datasets(training_data, testset_data, test_labels_data, model_type, data_type,fix_length)
 
     dataloaders = get_dataloaders(train_data, val_data, test_data, batch_size, device)
 

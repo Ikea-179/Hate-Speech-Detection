@@ -5,7 +5,8 @@ import argparse
 import numpy as np
 import pandas as pd
 
-from src.utils.utils import STATS_CSV
+#from src.training.utils.utils import STATS_CSV
+STATS_CSV = "stats-results/"
 
 def get_highest_lowest_metric_indexes(stats_df, stats_metric='loss', stats_topk=5):
     assert stats_metric in ['prob', 'loss']
@@ -74,7 +75,7 @@ if __name__ == '__main__':
     parser.add_argument("--testset_data", help="unprocessed OLID testset dataset", default="data/test_data/testset-levela.tsv")
     parser.add_argument("--test_labels_data", help="unprocessed OLID test labels dataset", default="data/test_data/labels-levela.csv")
     parser.add_argument("--model", help="model to use. Choices are: BasicLSTM, ...", default='BiLSTM')
-    parser.add_argument("--saved_model_path", help="path to trained model", default='saved-models/BiLSTM_2021-12-03_23-58-08_trained_testAcc=0.5561.pth')
+    parser.add_argument("--saved_model_path", help="path to trained model", default='saved-models/BasicLSTM_2024-04-27_21-46-28_trained_testAcc=0.7182.pth')
     parser.add_argument("--loss_criterion", help="loss function: bceloss, crossentropy", default='bcelosswithlogits')
     parser.add_argument("--device", default='', help="cpu or cuda for gpu")
     parser.add_argument("--only_test", default=0, help="debug test", type=int)
@@ -129,7 +130,7 @@ if __name__ == '__main__':
     if not os.path.exists(csv_path) or only_test:
         print("Starting the test pipeline...")
         import torch
-        from src.utils.preprocess_utils import get_datasets, get_dataloaders
+        from utils.preprocess_utils import get_datasets, get_dataloaders
 
         if args.device in ['cuda', 'cpu']:
             device = args.device

@@ -1,0 +1,573 @@
+,original_index,text,true_label,pred_label,prob,loss
+0,0,<unk> j' ai compris avec l' affaire merah en <unk> je croit quand j' ã : copyright : tais ã    <unk> . ,0,0,0.059379853308200836,0.061215877532958984
+1,1,""" <unk> faut se souvenir que la <unk> avait parlã : copyright : de <unk> une police privã : copyright : e , donc politique . ã l' <unk> de la ss du parti nazi . un <unk> de 5 ans de service <unk> , fait maintenant <unk> <unk> par avec <unk> , <unk> <unk> et covid . ",1,0,0.35291072726249695,1.0415401458740234
+2,2,<unk> il est juste bridã : copyright : ã    cause de maurice ,0,0,0.10249913483858109,0.10814118385314941
+3,3,@tpmp @uboliver <unk> encore un fachos nã : copyright : nazi qui dã : copyright : fend le <unk> de zemmour vive macron ces lui le prochain prã : copyright : sident va tout faire ,1,0,0.5225128531455994,0.6491057276725769
+4,4,""" <unk> @eciotti <unk> ",0,0,0.141718789935112,0.15282344818115234
+5,5,"<unk> <unk> <unk> ciotti nâa absolument aucune chance . <unk> candidat de la droite , les <unk> anti nazi de la gauche seront de sortie comme pour zemmour . ",1,1,0.7717404365539551,0.25910699367523193
+6,6,""" moi : <unk> <unk> que je crã¨ve la dalle <unk> ",0,0,0.004741209093481302,0.004752635955810547
+7,7,""" <unk> vous <unk> des <unk> que je n' ai pas et je vous <unk> de mettre un peu d' ordre dans votre cerveau ! ",0,0,0.01574380323290825,0.015869140625
+8,8,"<unk> <unk> <unk> ce que je veux quand mãªme ? les <unk> des <unk> sont <unk> crevã : copyright : , l' histoire c <unk> pas <unk> du tout , les seul point <unk> c que ya moins de fan service que dans l' <unk> , le dernier <unk> qui <unk> un ",0,0,0.24686293303966522,0.2835080623626709
+9,9,""" <unk> le <unk> avec qui j' ai passã : copyright : <unk> en rã : copyright : union ( salle sans <unk> ) , <unk> juste ã    cã´tã : copyright : de moi , qui dit ce matin "" "" j' ai une petite crã¨ve "" "" ... ð ¡ ",0,0,0.008835992775857449,0.008875370025634766
+10,10,<unk> pas <unk> wsh faut tenir jusqu' au <unk> crã¨ve pas c' est <unk> de manger ,0,0,0.007678050547838211,0.0077075958251953125
+11,11,<unk> <unk> le <unk> bien posã : copyright : est toujours plus juste quâun <unk> bridã : copyright : par des <unk> ! vous en avez la preuve par votre constat ! bravo pour votre <unk> : copyright : ritã : copyright : <unk> » ,0,0,0.04787759110331535,0.04906177520751953
+12,12,"<unk> , un tout petit peu plus que 10 <unk> en fait , parce que j' avais pas <unk> : copyright : le <unk> ... url ",1,0,0.24987679719924927,1.3867871761322021
+13,13,<unk> <unk> chance qu' ils n' <unk> plus de pã¨re <unk> ! ils <unk> un nã¨gre pour suivre le saint pã : copyright : <unk> ,1,1,0.6486961841583252,0.4327907860279083
+14,14,<unk> @ol <unk> mais de toute faã§on se bride tout seul le meilleur 10 de <unk> 1 dans notre ã : copyright : quipe et il joue ã    droite donc pas <unk> ,0,0,0.038563258945941925,0.03932642936706543
+15,15,une ã : copyright : quipe de bamboula comme <unk> <unk> câest <unk> et bruno que ã§a choisi pour <unk> les 2 <unk> <unk> url ,1,0,0.572486937046051,0.5577653050422668
+16,16,""" je suis <unk> , je suis <unk> . ",0,0,0.04482284560799599,0.04585838317871094
+17,17,"<unk> j' ai gã : copyright : <unk> : copyright : <unk> suis <unk> plusieurs fois en cours d' <unk> parce qu' m' avait <unk> : copyright : trop loin ã    coup d' <unk> . des annã : copyright : es plus tard j' <unk> que je souffre d' <unk> et d' <unk> <unk> , donc le <unk> est <unk> pour moi . ",0,0,0.17420083284378052,0.19140374660491943
+18,18,"<unk> @alphanumrique2 hitler ã : copyright : tait socialiste , pas une idã : copyright : e , une rã : copyright : alitã : copyright : . ",0,0,0.18388544023036957,0.2032005786895752
+19,19,<unk> <unk> <unk> nazi ? url ,1,1,0.8585817217826843,0.1524733603000641
+20,20,<unk> <unk> <unk> mitterrand ã : copyright : tait ami avec petain et <unk> ! vous le <unk> avant la guerre ! c est hitler qui <unk> : copyright : et les <unk> ! faut tt mã : copyright : <unk> pour vous <unk> et manipuler les franã§ais <unk> <unk> histoire tt n es ,0,1,0.7589784860610962,1.4228689670562744
+21,21,"@jlmelenchon pã : copyright : pã¨re nous <unk> ses petits cris de <unk> quand touche ã    son dictateur prã : copyright : fã : copyright : rã : copyright : mais quand c' est le prã : copyright : sident franã§ais qui est <unk> : copyright : en hitler ou <unk> un prã : copyright : <unk> , il dã : copyright : fend la libertã : copyright : d' <unk> .... ",1,0,0.12911126017570496,2.0470807552337646
+22,22,<unk> crã¨ve yâa <unk> qui va venir en <unk> ,0,0,0.006325824651867151,0.0063457489013671875
+23,23,"<unk> <unk> @zemmoureric avec un juif la tãªte d' un parti nazi , c' est <unk> ",1,1,0.8103569746017456,0.2102803885936737
+24,24,<unk> <unk> @f_philippot et fait quoi de ceux qui ne <unk> pas se vacciner quand mãªme ? les envoie dans des camps de la mort ? sale nazi ! ,0,1,0.8677151799201965,2.0227980613708496
+25,25,pour ceux qui auraient <unk> : copyright : <unk> le dernier <unk> ( le vrai dernier mdr ) ã : copyright : pisode de <unk> ou crã¨ve c' est ici qu' ca <unk> : url <unk> ,0,0,0.007756134495139122,0.007786273956298828
+26,26,""" @karimamarkhodj1 le pays d' hitler rã : copyright : <unk> avec une <unk> <unk> : viol du code de nuremberg , <unk> <unk> <unk> ! ! ! ",1,1,0.8231746554374695,0.1945868730545044
+27,27,"<unk> c' ã : copyright : tait dã : copyright : jã    dur de voir l' homme derriã¨re le nazi , mais alors derriã¨re l' arabe nazi .. url ",1,1,0.8979968428611755,0.10758867859840393
+28,28,"<unk> @zemmoureric @youtube est comme le <unk> nazi de <unk> , le <unk> ã : copyright : <unk> que <unk> nos politiques sont peur ? maintenant je <unk> zemmour , si sont tous <unk> peut - ãªtre est bien pour les franã§ais ? ",0,0,0.047117680311203,0.0482637882232666
+29,29,je suis entrain <unk> une <unk> dans <unk> pour <unk> <unk> pas de dire ses connard de joueurs de merde que câest de leurs faute si un jeune negre sâest <unk> : copyright : comme ca ils <unk> sur la conscience <unk> monde <unk> ,1,0,0.3269639313220978,1.1179053783416748
+30,30,"@alineb_83 @zemmoureric vous <unk> , vous une femme , avoir honte . vous auriez donc ã : copyright : tã : copyright : <unk> les <unk> qui ont votã : copyright : hitler ... c' est vrai que ce <unk> de z ã    <unk> les camps de la mort . allez <unk> . j' espã¨re que zemmour ne <unk> jamais . ",1,1,0.6346242427825928,0.45472222566604614
+31,31,mais creve la <unk> ,0,0,0.02348228171467781,0.02376246452331543
+32,32,<unk> nazi france ,1,1,0.8254434466362,0.19183449447155
+33,33,"mon pneu crevã : copyright : sur l' <unk> <unk> c' est quoi cette journã : copyright : e de merde , jsuis <unk> : copyright : ã    attendre dans une salle d' <unk> <unk> pendant jsp combien de temps avant qu' ils ne le <unk> url ",0,1,0.8586585521697998,1.9565768241882324
+34,34,"tâes lã    ton mari câest un <unk> beur tu <unk> un enfant bien <unk> bien <unk> , <unk> encore url ",1,0,0.38410264253616333,0.9568454027175903
+35,35,"<unk> est -ce que si <unk> l' idã : copyright : al nazi de race <unk> : copyright : <unk> , le fait que les <unk> <unk> <unk> les <unk> , ã§a nous rend pas <unk> : copyright : <unk> ? ",0,0,0.39699622988700867,0.5058318376541138
+36,36,""" <unk> _ _ _ <unk> _ <unk> oui , cette erreur ã : copyright : tait <unk> . mais il surtout voulu <unk> un coup au communisme ( j - <unk> ) ",0,0,0.026330171152949333,0.02668309211730957
+37,37,<unk> <unk> <unk> c est la <unk> ... un nazi ! ,1,1,0.8713966608047485,0.1376579999923706
+38,38,""" @aldosterone111 le droit des peuples europã : copyright : ens ã    <unk> d' eux - mãªmes , ã    rester eux - mãªmes , et ã    l' intã : copyright : gritã : copyright : <unk> de leurs <unk> , depuis la seconde guerre mondiale c' est <unk> : copyright : au <unk> nazi / fasciste . ",0,1,0.7321780920028687,1.3174329996109009
+39,39,<unk> je crã¨ve ,0,0,0.027899974957108498,0.028296470642089844
+40,40,""" <unk> s' <unk> que l' extrãªme droite passe aux ã : copyright : lections , car "" "" ã§a <unk> : copyright : comme ã§a avec hitler . "" "" ",0,0,0.1363796442747116,0.14662206172943115
+41,41,"<unk> ceux qui <unk> pour zemmour ne sont non seulement <unk> mais aussi racistes , va quand mãªme pas commencer ã    dire quâils ont le droit dâãªtre raciste , <unk> -vous en <unk> et dã : copyright : <unk> hitler est arrivã : copyright : par les urnes au pouvoir ",1,0,0.02105296216905117,3.8607139587402344
+42,42,"@weatherboy_fr @damienrieu <unk> : copyright : <unk> , c' est le nom de code pour dire <unk> . va chercher du boulot . les communistes franã§ais ont <unk> : copyright : ã    rã : copyright : <unk> quand le dictateur hitler attaquã : copyright : l' <unk> . staline , ton <unk> , n' eu besoin de personne pour assassin ",0,1,0.6451765894889832,1.0361350774765015
+43,43,reste ã    <unk> negro url ,1,1,0.8035436272621155,0.2187238335609436
+44,44,"<unk> _ <unk> les tã : copyright : moins qui l' ont <unk> <unk> ã    l' <unk> , les <unk> de coups , les <unk> et le <unk> <unk> : copyright : dans l' <unk> ? vraiment c' est pas assez pour toi ? vraiment c' est <unk> ? mais qu' est -ce qu' il faut , alors ? faut qu' el ",0,0,0.020534807816147804,0.020748615264892578
+45,45,<unk> <unk> <unk> <unk> <unk> _ <unk> <unk> <unk> <unk> ãa vaut <unk> pour ces nã : copyright : nazi . ,1,1,0.7472687363624573,0.2913304269313812
+46,46,"<unk> @david_granola @woodkid @guillaumetc le socialisme collaborã : copyright : , les communistes ont retourner leur veste aprã¨s le pacte <unk> soviã : copyright : tique <unk> par hitler , sinon qu' auraient - ils faits ? et bien du cã´tã : copyright : de staline , la france est bien <unk> ",0,0,0.15020062029361725,0.16275501251220703
+47,47,@jumpmanfr @arnauddevisme @arnaudabel @zemmoureric donc pour toi patriote et nã : copyright : nazi c' est la mãªme chose ducoup ,0,1,0.8260427117347717,1.7489453554153442
+48,48,<unk> <unk> <unk> <unk> ok nazi <unk> ,1,1,0.7924579381942749,0.2326158583164215
+49,49,<unk> moi tu vois pour <unk> il aura <unk> <unk> ,0,0,0.21942414343357086,0.24772334098815918
+50,50,mais si yâa pas de <unk> de <unk> sur la ligne <unk> il crã¨ve ? ã§a fais <unk> jsuis ã    <unk> alors que <unk> en <unk> est sortie ,0,0,0.022648951038718224,0.02290940284729004
+51,51,bon jvais dormir jsuis crevã : copyright : moi ,0,0,0.012856683693826199,0.012939929962158203
+52,52,<unk> ah voilã    les <unk> des nazi . la <unk> de rã : copyright : gime nazi <unk> . ,1,1,0.8479518890380859,0.16493140161037445
+53,53,@nicolasberrod <unk> vous avez dã : copyright : jã    largement piã : copyright : <unk> : copyright : les libertã : copyright : depuis 2 ans ... pour une crã¨ve <unk> : copyright : e aux <unk> et <unk> de <unk> ... ,0,0,0.16548140347003937,0.1809002161026001
+54,54,<unk> <unk> <unk> <unk> <unk> de vrai <unk> ces youpin <unk> <unk> ,1,1,0.7910792231559753,0.23435719311237335
+55,55,""" "" "" le <unk> <unk> <unk> , la rã : copyright : sistance <unk> vient de rã : copyright : ussir le coup le plus <unk> de lâhistoire de la presse <unk> en <unk> , au nez et ã    la <unk> de <unk> nazi , un <unk> du â « <unk> <unk> : copyright : â » , le <unk> <unk> <unk> : copyright : ã    ses <unk> : copyright : <unk> par les <unk> . "" "" url ",0,0,0.1452988088130951,0.15700340270996094
+56,56,""" <unk> il n' est pas comparã : copyright : ã    "" "" un "" "" virus , il est comparã : copyright : au covid qui fout le <unk> sur toute la <unk> , alors que lui c' est juste en france . ",0,0,0.02546442672610283,0.025794267654418945
+57,57,"yâa des mecs ils mã : copyright : <unk> rien dans le vie au nom <unk> <unk> dans 10 ans il aura un documentaire sur toi le <unk> <unk> ( entre <unk> et <unk> , le petit negre de <unk> vite dã : copyright : <unk> : copyright : ) <unk> con ",1,0,0.15240052342414856,1.8812432289123535
+58,58,fascist republican profiteers nazi coup url ,1,1,0.8903319835662842,0.11616093665361404
+59,59,"<unk> avec journã : copyright : e de merde ã    juste rã : copyright : <unk> des problã¨mes j' en <unk> <unk> une ã    <unk> quand avoir abonnã : copyright : mon dernier <unk> , si câã : copyright : tait pas <unk> trop crevã : copyright : faire ã    <unk> ",0,0,0.02559465356171131,0.02592778205871582
+60,60,@philippemurer purã : copyright : e hitler est revenu ã§a est ! ! ! ,1,0,0.5864845514297485,0.5336090326309204
+61,61,""" <unk> <unk> de <unk> <unk> la <unk> <unk> ",0,0,0.3638593852519989,0.4523355960845947
+62,62,mais les nã¨gre dans le <unk> sont des <unk> je <unk> ,1,1,0.716407299041748,0.33350637555122375
+63,63,<unk> crã¨ve leur les yeux ,0,0,0.00922347791492939,0.009266376495361328
+64,64,"@f_philippot les nazis ne sont jamais parti . ils ont ã : copyright : tã : copyright : <unk> dans les <unk> europã : copyright : <unk> pour se faire oublier et maintenant , ils <unk> ã    <unk> avec le mãªme <unk> <unk> via le <unk> germanique nazi ",1,1,0.6921545267105103,0.3679460883140564
+65,65,<unk> _ <unk> <unk> un <unk> sans <unk> il creve . tu te <unk> bien avec 0 <unk> ,0,0,0.015250676311552525,0.015367984771728516
+66,66,jâai <unk> famille sur <unk> je suis vraiment une sale race ,0,0,0.6171208620071411,0.960036039352417
+67,67,"<unk> <unk> il beaucoup de <unk> sur les nazis , par exemple , hitler ã : copyright : tait contre la vaccination forcã : copyright : ",0,0,0.1567455679178238,0.17048656940460205
+68,68,les aura ã    <unk> ces petits hitler et leur <unk> â ¦ garder vos cafã : copyright : et vos <unk> de merde et en mãªme temps <unk> vous votre <unk> oã¹ je pense câest <unk> <unk> : registered : <unk> url ,1,0,0.5793119072914124,0.5459141731262207
+69,69,"<unk> <unk> <unk> @zemmoureric oui , ã    la droite d' hitler ",1,1,0.7905334234237671,0.2350473701953888
+70,70,"<unk> hã : copyright : oui , salut nazi , doigt d' honneur , <unk> et haine ... et pourtant ils n' ont pas le type <unk> aux yeux bleus . mais qui l' <unk> crã » , ce n' est pas comme si dans l' histoire il avait eu <unk> entre le <unk> reich et le grand <unk> de jã : copyright : <unk> ",1,0,0.3365176320075989,1.0891046524047852
+71,71,""" <unk> <unk> @malopedia se prã : copyright : <unk> socialiste ne fait pas de toi un socialiste ",0,0,0.6129786372184753,0.9492753744125366
+72,72,mâa toujours dit que si les gens <unk> dans ton dos negro tu peux ãªtre <unk> de toi ,1,0,0.6123494505882263,0.49045222997665405
+73,73,@cnews ce petit nazi de merde ,1,1,0.8764553070068359,0.13186956942081451
+74,74,qui d' autre que <unk> nazi <unk> url ,0,1,0.854832112789154,1.9298646450042725
+75,75,<unk> les <unk> c des sale race ,1,1,0.8280525803565979,0.18867863714694977
+76,76,"<unk> . â«â   contre hitler , le <unk> de <unk> <unk>   <unk>   : <unk> <unk> , prã : copyright : sident de la <unk> sur france <unk> url via <unk> _ ",0,0,0.01635419763624668,0.016489505767822266
+77,77,""" <unk> <unk> <unk> c' ã : copyright : tait le <unk> amã : copyright : ricain responsable de la <unk> des <unk> de <unk> nazi et il prenait un <unk> plaisir <unk> la <unk> ( "" "" <unk> <unk> "" "" ) pour <unk> les nazis au lieu de leur <unk> les <unk> comme la <unk> militaire l' <unk> "" ",0,0,0.44807085394859314,0.594335675239563
+78,78,<unk> <unk> le negro il rã¨gle ses comptes la bouche pleine <unk> ,1,1,0.7000219225883484,0.35664355754852295
+79,79,<unk> question <unk> negro ,1,1,0.6819482445716858,0.38280150294303894
+80,80,"<unk> <unk> himmler ã : copyright : tait quand mãªme beaucoup plus <unk> : copyright : qu' hitler , apparemment hitler se serait <unk> d' himmler car celui ci etait plus <unk> : copyright : et voulait <unk> : copyright : er des <unk> <unk> ",0,0,0.4221293330192566,0.5484051704406738
+81,81,<unk> tousse mais câest st <unk> qui <unk> une grosse crã¨ve url ,0,0,0.00689088087528944,0.006914615631103516
+82,82,"<unk> <unk> des pays oã¹ les gens au <unk> des <unk> font des rãªves . ici nous , vois - tu , nous marche et nous tue , nous <unk> ( <unk> <unk> <unk> la <unk> <unk> <unk> en <unk> <unk> . <unk> , <unk> , <unk> , <unk> nos <unk> ",0,1,0.6397715210914612,1.0210168361663818
+83,83,@jessminda59 @jamaisnonjamais @tpmp la main de fatma c' est de quelle religion <unk> j' <unk> savoir ? ,0,0,0.3969488739967346,0.5057532787322998
+84,84,<unk> ce <unk> pourri une <unk> : copyright : de nazi . ,1,1,0.7602553963661194,0.2741008400917053
+85,85,""" @ucontemplatif walter hallstein <unk> le premier prã : copyright : sident de la commission de la <unk> : copyright : ã : copyright : <unk> europã : copyright : enne , <unk> -il ã : copyright : tã : copyright : un nazi pendant le <unk> reich ? ",0,1,0.82644122838974,1.7512388229370117
+86,86,<unk> <unk> <unk> le milieu est surtout crevã : copyright : â ¦ pour moi le prochain match <unk> ã    tout prix faire des <unk> au milieu pour pas ãªtre quâon se fasse <unk> au milieu par <unk> ,0,0,0.058427635580301285,0.06020402908325195
+87,87,"<unk> <unk> <unk> @qofficiel @chtaubira non c' est pas ã§a , la libertã : copyright : c le truc que l' extrãªme droite dit <unk> : copyright : mais en mãªme temps bride tout <unk> n' est pas comme eux ",0,0,0.03305577486753464,0.033614397048950195
+88,88,"@aldosterone111 <unk> , je trouve que les uns ne <unk> pas mieux que les autres . c' est un peu comme ãªtre en pologne dans les annã : copyright : es <unk> et devoir choisir entre hitler et staline . ",0,0,0.025871681049466133,0.026212215423583984
+89,89,<unk> câest ce que je dit il est bridã : copyright : url ,0,0,0.057461660355329514,0.05917859077453613
+90,90,<unk> qui parlã : copyright : dâhitler ? ,0,0,0.11246415972709656,0.11930632591247559
+91,91,""" <unk> <unk> imagine juste un rat . ",0,0,0.10523989796638489,0.11119961738586426
+92,92,@sarahbaude1 @zoomabus hitler ã : copyright : tã : copyright : financã : copyright : par les mãªme que ceux qui <unk> les big <unk> aujourd'hui . il faisait des <unk> de <unk> <unk> sur les gens dans les camps . ca <unk> . ,1,0,0.3311444818973541,1.1052005290985107
+93,93,et tout ce que tu sais câest que le reubeu <unk> de la bonne <unk> ,1,1,0.8209174871444702,0.19733265042304993
+94,94,@renaudpila il crevã : copyright : lâã : copyright : cran pendant toute cette campagne alors que personne <unk> sur lui . ce nâest presque pas une <unk> ,0,0,0.5342191457748413,0.7640399932861328
+95,95,entendu ã    la <unk> : â«â   lâautriche et lâallemagne nâont jamais <unk> : copyright : la vaccination sauf pendant la pã : copyright : riode <unk>   â » voilã    voilã   ... <unk> autriche allemagne <unk> ,0,0,0.5522603392601013,0.8035433292388916
+96,96,câest au nom de la â«â   <unk>   â » jamais de lâidã : copyright : ologie que les nazis auront pu <unk> leurs <unk> : les juifs ã : copyright : taient â«â   <unk>   â » et leur <unk> <unk> prã : copyright : sentã : copyright : e comme une simple â«â   hygiã¨ne <unk>   â » pour la faire accepter <unk> aux masses url ,1,0,0.06286130845546722,2.76682448387146
+97,97,""" <unk> <unk> <unk> <unk> <unk> comme ns <unk> aprã¨s + de 20 ans de pseudo journaliste , <unk> : copyright : <unk> , <unk> tã : copyright : lã : copyright : , il s' est <unk> : copyright : devant bouleau qui n' est pas le <unk> ni <unk> des <unk> ? <unk> ",0,0,0.36424267292022705,0.4529383182525635
+98,98,""" 2 sociã : copyright : tã : copyright : d' <unk> <unk> <unk> et <unk> <unk> la <unk> : copyright : ds mã : copyright : dias grand <unk> ainsi q la plupart des <unk> <unk> <unk> . ",1,1,0.6376931071281433,0.4498981535434723
+99,99,""" <unk> lã    c' est bon va ãªtre crevã : copyright : toute la journã : copyright : e ð¥ <unk> ",0,0,0.055727992206811905,0.05734109878540039
+100,100,<unk> mais nous va se <unk> <unk> <unk> <unk> jusquâã    crã¨ve ,0,0,0.06303293257951736,0.06510710716247559
+101,101,"<unk> c' est plus <unk> bayern , c' est franco hitler mtn ",1,1,0.7766450643539429,0.2527718245983124
+102,102,jâen peux plus des negro coco jojo <unk> <unk> . pitiã : copyright : <unk> leurs <unk> url ,1,0,0.27651602029800415,1.2854865789413452
+103,103,un dã : copyright : <unk> : copyright : <unk> appelle les <unk> ã    se rã : copyright : <unk> et compare les <unk> ã    hitler et staline . url ,0,0,0.42110762000083923,0.5466387271881104
+104,104,"hitler aussi voulait une europe fã : copyright : dã : copyright : <unk> , celle qui fait son chemin sans les <unk> url ",0,0,0.4016214609146118,0.5135316848754883
+105,105,""" <unk> @conflitsfrance ceux qui ont dit cela avec hitler en allemagne , mussolini en <unk> et le <unk> : registered : tre pã : copyright : tain en france ont vu comment <unk> leurs peuples . ",0,0,0.138397216796875,0.14896094799041748
+106,106,bon allez je suis crevã : copyright : <unk> bonne nuit ã    tous <unk> url ,0,0,0.01345465425401926,0.013545989990234375
+107,107,""" <unk> <unk> <unk> _ @bfmtv en fait le point <unk> entre hitler , staline , mussolini etc ã : copyright : tait le <unk> . ",0,0,0.06710650771856308,0.06946420669555664
+108,108,bon qui crevã : copyright : mon pneus mdr ,0,0,0.016706982627511024,0.016848087310791016
+109,109,""" <unk> <unk> _ et pour le <unk> ... tu le compares ã    hitler , c' est ã§a ? ",0,0,0.08387935906648636,0.08760714530944824
+110,110,@publicsenat <unk> les non vaccinã : copyright : de la <unk> expã : copyright : <unk> jusqu' ã    la <unk> forcã : copyright : e. c' est genre ' <unk> ' toi ou crã¨ve dehors comme une merde de chien ... <unk> va . si <unk>    c' est pas de la dictature ... ,0,0,0.10464217513799667,0.11053180694580078
+111,111,"<unk> tout comme ils <unk> la logique communiste en chine , la propagande en <unk> : copyright : e du nord ou tout comme ils rã : copyright : pã : copyright : taient <unk> la doctrine nazi . ãa s' appel des enfants et ce que vous faites se <unk> de la propagande . pas de quoi s' en <unk> . ",0,1,0.7450987696647644,1.3668792247772217
+112,112,"<unk> tâas la crã¨ve , tu te <unk> quand mãªme au taff et en plus tu ne <unk> mãªme pas de masque jâai envie de la manger ",0,0,0.015171006321907043,0.015287399291992188
+113,113,@alphanumrique2 <unk> le mot nazi vient de national socialisme . est ce que ces <unk> sont au courant ? ,0,1,0.6692699790000916,1.1064529418945312
+114,114,elle <unk> la <unk> url ,1,1,0.673521876335144,0.3952347934246063
+115,115,<unk> <unk> <unk> vas <unk> mets le au boulot moi je suis crevã : copyright : . ,0,0,0.009878143668174744,0.00992727279663086
+116,116,"<unk> mdrrrr je le jure quand dans le ton de la voix <unk> une sorte de dã : copyright : goã»t , mais dã : copyright : jã    le negro qui la <unk> : copyright : e , pas mon frã¨re <unk> ! ! ",1,1,0.857286274433136,0.15398339927196503
+117,117,@itsnotroms pcq il est bridã : copyright : <unk> ,0,0,0.11843858659267426,0.12606072425842285
+118,118,"nazis <unk> <unk> un <unk> du monde , bien <unk> : copyright : comme il faut , je demande un <unk> d' <unk> <unk> , bravo le <unk> url ",1,0,0.3050139844417572,1.1873977184295654
+119,119,""" <unk> <unk> ðððð ",0,0,0.1926933079957962,0.21405160427093506
+120,120,ca creve les <unk> tu <unk> d' envie d' <unk> un <unk> ,0,0,0.018817830830812454,0.0189971923828125
+121,121,sâen sort ou crã¨ve ã    deux url ,0,0,0.0037153048906475306,0.0037221908569335938
+122,122,@poulin2012 <unk> nazi ,1,1,0.8101826310157776,0.21049559116363525
+123,123,câest vraiment un sal noir ,1,1,0.8473347425460815,0.16565948724746704
+124,124,"<unk> <unk> @wjoumarin1 @zemmoureric oui câest ã§a , quand ton seul argument câest la comparaison avec hitler ã§a <unk> un point godwin , si vous <unk> pas la france libre ã    vous de la <unk> ã§a nous fera des vacances ",0,1,0.7875069379806519,1.548845887184143
+125,125,<unk> <unk> <unk>   â » <unk> url ,0,0,0.48588672280311584,0.6653116345405579
+126,126,naziâ ¦ ððð <unk> url ,1,1,0.8019142746925354,0.22075359523296356
+127,127,"eh g <unk> envie de pleurer , <unk> la je crã¨ve de faim et mã¨re <unk> : copyright : tout ce que je mange pas ",0,0,0.028170324862003326,0.028574705123901367
+128,128,<unk> je crã¨ve <unk> ,0,0,0.010998223908245564,0.011059284210205078
+129,129,suis en train de <unk> la crã¨ve envie de <unk> lã   ,0,0,0.005724153481423855,0.005740642547607422
+130,130,<unk> ãdouard mendy câest un sal noir câest ã§a ? url ,1,1,0.8810314536094666,0.1266619712114334
+131,131,<unk> de nazi <unk> url ,1,1,0.8773068189620972,0.13089844584465027
+132,132,"<unk> <unk> ah frã : copyright : rot la se sera chacun pour sa peau , marche ou crã¨ve ",0,0,0.1610284000635147,0.17557835578918457
+133,133,ãa niaque <unk> ð¥ <unk> ,0,0,0.589992105960846,0.8915787935256958
+134,134,<unk> <unk> macron en nazi ,1,1,0.7952812910079956,0.2290593683719635
+135,135,sale race d' ã : copyright : <unk> de merde ,0,0,0.3717043399810791,0.4647444486618042
+136,136,@bfmtv @emmanuelmacron ton <unk> est digne un acte de nazi ... ca vient de toi ou ta <unk> ? ,1,1,0.7772045135498047,0.2520517110824585
+137,137,"<unk> oh un par un , ã§a devrait le faire ! il faut du temps ! cã    rappelle un film sur la <unk> des nazi dans la rã : copyright : alitã : copyright : il en encore un qui ã : copyright : tã : copyright : chopã : copyright : <unk> ans <unk> : copyright : ! faut pas dã : copyright : <unk> : copyright : rer ! <unk> ",0,0,0.03738650307059288,0.038103342056274414
+138,138,bravo @mlp_officiel lui je suis la mãªme malade ã    crevã : copyright : bravo <unk> ° <unk> url ,0,0,0.05927690863609314,0.06110644340515137
+139,139,"<unk> <unk> ta gueule , nazi ",1,1,0.8293887376785278,0.18706628680229187
+140,140,""" tu <unk> dans paris , tu crã¨ve la dalle , tu te fait <unk> de toute part par les <unk> , les <unk> ; les <unk> , les <unk> et toutes ses conneries ... "" ; ",0,0,0.363483726978302,0.4517452120780945
+141,141,"<unk> actuellement en train de <unk> , je crã¨ve la dalle . <unk> pour ta journã : copyright : e. ",0,0,0.011814634315669537,0.01188516616821289
+142,142,"<unk> <unk> dingue hier matin , je <unk> un <unk> sur <unk> sur la guerre allemagne <unk> , ils ont passã : copyright : un <unk> d' hitler , c' ã : copyright : tait <unk> , j' avais l' impression d' entendre zemmour , <unk> . ",1,0,0.3140489161014557,1.1582064628601074
+143,143,"<unk> <unk> @_befoot oui c est exactement ca <unk> <unk> <unk> du bo sont beaucoup trop <unk> coup c est les buts , un coup les <unk> , un coup la <unk> ¦ cette <unk> ca <unk> la <unk> du <unk> qu il <unk> messi mais ",0,1,0.7933613657951355,1.5767836570739746
+144,144,<unk> le nazi fan d' <unk> et dã : copyright : <unk> n' pas la <unk> ? ,1,0,0.07937028259038925,2.5336313247680664
+145,145,"<unk> quâen france quâon voit ã§a . est en pleine crise sanitaire . est tous archi crevã : copyright : depuis des mois . mais bon , vous savez â«â   la <unk> câest <unk>   â » <unk> <unk> ¦ <unk> . ",0,1,0.6869165897369385,1.1612855195999146
+146,146,""" <unk> depuis la nuit des temps , les <unk> <unk> ont <unk> : copyright : ã    s' <unk> au monde pour en faire une <unk> . tous se sont <unk> : copyright : les dents . le dernier en date , c' est hitler . ",0,0,0.41630882024765015,0.5383832454681396
+147,147,<unk> <unk> @commandertorenn @dadoo5152 @alainduhamel la famille des victimes de merah par exemple . ,0,0,0.0828251764178276,0.0864572525024414
+148,148,<unk> <unk> avec vos doses de rappelle ã    l' <unk> ððð vous allez crevã : copyright : bien avant nous et c dans trã¨s bientã´t <unk> <unk> de 0 <unk> ððð url ,0,0,0.10621985048055649,0.11229538917541504
+149,149,"<unk> ta gueule , nazi ",1,1,0.8290045261383057,0.18752966821193695
+150,150,<unk> il une belle <unk> de nazi le <unk> ... ,1,1,0.8855079412460327,0.12159387767314911
+151,151,tout le monde crã¨ve chez moi ,0,0,0.005222966894507408,0.005236625671386719
+152,152,""" <unk> <unk> <unk> la rã : copyright : <unk> d' un <unk> ... ",0,0,0.08861470222473145,0.0927896499633789
+153,153,"<unk> <unk> <unk> ya une solution simple , <unk> agir comme un nazi et un facho ..... ",1,1,0.8156504034996033,0.20376940071582794
+154,154,"<unk> <unk> @julestorres17 @bfmtv @zemmoureric <unk> prã : copyright : <unk> en quoi ? ð¤£ pour information , il n est rien ce <unk> tu cru que c ã : copyright : tait <unk> qui rejoint hitler ? ",0,0,0.12108916789293289,0.12907171249389648
+155,155,""" <unk> @zemmoureric des milliers de faux inscrits . ",1,0,0.1814764142036438,1.7066295146942139
+156,156,<unk> mãªme hitler de plus <unk> <unk> . ,0,1,0.7059217095375061,1.2239092588424683
+157,157,envie de crevã : copyright : . <unk> contre une ã : copyright : quipe pauvre en <unk> . ãa dã : copyright : <unk> . ,0,0,0.06537286937236786,0.06760764122009277
+158,158,ciotti <unk> ... le nazi et l' <unk> . dirai du <unk> de la <unk> des <unk> . ,1,1,0.8347104787826538,0.18067032098770142
+159,159,<unk> _ je suis <unk> <unk> hier j' ã : copyright : tais crevã : copyright : ,0,0,0.009818472899496555,0.009867191314697266
+160,160,"@tonio3375 @jean_alain99 @zemmoureric si zemmour <unk> au pouvoir va <unk> <unk> vers un hitler des musulmans oui , je suis parfaitement <unk> de ce que je dis , ce type est malade <unk> ",1,0,0.4808073937892914,0.7322885394096375
+161,161,<unk> pour quâon le traite de negro <unk> <unk> ? jamais ! quâil retourne sauver le <unk> ð­ ,0,1,0.6682584285736084,1.1033990383148193
+162,162,une sale race ses mecs une dinguerie ,1,1,0.7803134322166443,0.24805957078933716
+163,163,<unk> elle est vraiment partie chercher le dernier negro de <unk> url ,1,1,0.8759030699729919,0.1324998438358307
+164,164,"je suis crevã : copyright : <unk> de <unk> , mes parents savent que j' ai besoin de dormir mais ils rã : copyright : <unk> tous les jours une heure avant mon heure de rã : copyright : veil prã : copyright : vu <unk> ",0,0,0.07072760164737701,0.07335329055786133
+165,165,@martinkabolwe @kasmuseric @tpmazembe @olivierkamitatu @fatma_samoura @moise_katumbi un prã : copyright : sident de la rã : copyright : publique dã : copyright : <unk> d' un simple <unk> je ne crois pas que les fous <unk> . il seulement des <unk>  ð ,0,0,0.4153027832508087,0.5366611480712891
+166,166,<unk> hitler leur avait <unk> : copyright : un beau <unk> de <unk> aux franã§ais qui avaient rejoint la <unk> ... le <unk> est <unk> ! ,1,0,0.5106861591339111,0.6720001101493835
+167,167,"parfois je dis que certains qui <unk> le signe nazi , le <unk> nazi et la dã : copyright : marche nazi auront encore besoin qu' leur dise qu' il s' <unk> bien d' hitler pour qu' ils <unk> le <unk> . ",1,0,0.061853740364313126,2.78298282623291
+168,168,<unk> peut plus dire sal arabe du coup <unk> ,1,1,0.8694249987602234,0.13992318511009216
+169,169,""" la <unk> : copyright : humaine sans limite ! ! ! ! ",0,0,0.027336103841662407,0.027716636657714844
+170,170,<unk> la crã¨ve jusquâã    <unk> ¦ <unk> ,0,0,0.015392540954053402,0.015512466430664062
+171,171,<unk> <unk> <unk> <unk> en vrai heureusement qu' il creve 0 depuis 3 ans ,0,0,0.015180705115199089,0.01529693603515625
+172,172,<unk> <unk> <unk> c' est ã : copyright : galement ãªtre un nazi et l' <unk> <unk> bientã´t ,0,1,0.7998342514038086,1.6086093187332153
+173,173,<unk> <unk> <unk> allez crã¨ve tâas rien du tout ,0,0,0.005153380800038576,0.005166530609130859
+174,174,<unk> <unk> bah c pareil que les reubeu <unk> vraiment que j arrive ã    les <unk> ,1,0,0.2726120352745056,1.2997056245803833
+175,175,"bon <unk> je suis <unk> comme mã : copyright : <unk> car dans sa vidã : copyright : du jour <unk> la <unk> dit que les <unk> ne <unk> pas ( en mãªme temps ils sont <unk> dans l' ã : copyright : quipe , ce qui est assez <unk> vu le niveau gã : copyright : nã : copyright : ral du <unk> ) . ",1,0,0.49666544795036316,0.6998386979103088
+176,176,@tpmp va voir si les petits franã§ais vont enfin se rã : copyright : veiller de voir les <unk> <unk> : copyright : es partout et les <unk> de moitiã : copyright : s. tant qu ils sont pas <unk> ils <unk> aprã¨s si un crevã : copyright : devant les <unk> ils <unk> ,0,0,0.046355582773685455,0.04746437072753906
+177,177,""" <unk> @gilbertcollard <unk> ursula <unk> <unk> <unk> est en <unk> <unk> <unk> <unk> : copyright : e avec angela merkel petite fille d' hitler ! ",0,1,0.8372021913528442,1.8152464628219604
+178,178,""" @tical10 @conflitsfrance "" "" nazi "" "" la propagande <unk> guerre froide ã§a marche plus aujourd'hui "" ",0,0,0.30020222067832947,0.3569639325141907
+179,179,hitler ã : copyright : tait connu pour <unk> les gens . faites ce que vous voulez de cette info url ,0,1,0.7559033632278442,1.4101909399032593
+180,180,<unk> <unk> il aime mes <unk> ã    la seconde <unk> je crã¨ve ,0,0,0.03228604421019554,0.03281879425048828
+181,181,""" <unk> @julestorres17 @valeurs 1 tu <unk> que c' est mon <unk> ( faux je suis <unk> ) ",0,0,0.05597643554210663,0.057604074478149414
+182,182,""" manipulation par les <unk> , ã§a se voit , j' appelle ã§a une secte nazi ",1,1,0.8441851735115051,0.16938342154026031
+183,183,@livrenoirmedia qu' il creve ce <unk> ..... bon rã : copyright : <unk> ã    ce <unk> .. ,1,0,0.09653926640748978,2.3378055095672607
+184,184,<unk> <unk> <unk> le chef <unk> nazi ? ,1,1,0.7433163523674011,0.2966335713863373
+185,185,<unk> <unk> hitler en <unk> : copyright : l' ue le fait ! ,0,0,0.12136661261320114,0.12938761711120605
+186,186,"@wjoumarin1 @zemmoureric le rapport avec hitler ? <unk> ã§a fait 20 ans quâon le connaã : registered : , <unk> ses livres et regardez ses ã : copyright : mission / <unk> sur ces 20 <unk> annã : copyright : es .. ",0,0,0.0817340835928917,0.08526825904846191
+187,187,mais pas un peu trop de nã : copyright : gro la dans le <unk> du psg ? mdrr ,1,0,0.5749778151512146,0.5534238219261169
+188,188,""" <unk> <unk> <unk> <unk> _ <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> j' ai bien dit rã : copyright : visionniste , et non fait une <unk> <unk> ã    hitler et aux nazis : merci donc de ne pas <unk> des procã¨s pour <unk> de <unk> le <unk> en <unk> la charge . ",0,0,0.1544136255979538,0.16772496700286865
+189,189,<unk> <unk> je comprends pas pourquoi tu <unk> de nazi alors que je suis leur pire <unk> . <unk> ,0,0,0.5152745842933655,0.7241727709770203
+190,190,je suis mort <unk> il crevã : copyright : le ballon sur un gros <unk> <unk> ,0,0,0.03494180738925934,0.03556680679321289
+191,191,""" <unk> ã l' <unk> il aussi ceux qui <unk> les collabos du passã : copyright : avec les yeux du prã : copyright : sent . ",0,0,0.37845855951309204,0.4755527079105377
+192,192,elle <unk> avec toi negro qu' est ce que tu <unk> url ,1,1,0.742006778717041,0.29839685559272766
+193,193,ce nazi bon <unk> au <unk> <unk> est <unk> <unk> url ,1,1,0.7447064518928528,0.2947651743888855
+194,194,tu <unk> un <unk> ã    la gã : copyright : <unk> 15 minutes aprã¨s ton pneu est crevã : copyright : â ¦ plus jamais ,0,0,0.041889261454343796,0.04279184341430664
+195,195,""" @alphanumrique2 surtout que dã : copyright : jã    <unk> centre aux <unk> ¦ ",0,0,0.3310898244380951,0.40210551023483276
+196,196,""" @roi_leopard <unk> <unk> le â«â   <unk>   â » comme tu dis câã : copyright : tait lui mãªme lã    pute de cette meuf . ",1,0,0.09880813956260681,2.3145751953125
+197,197,"quelle est la diffã : copyright : rence entre un nazi et ce monsieur qui ã : copyright : tait le meilleur ami et le maã : registered : tre ã    penser de <unk> <unk> ? oui <unk> <unk> , le <unk> <unk> , vous savez ... <unk> url ",1,1,0.8483490943908691,0.1644631028175354
+198,198,<unk> logique elle du sortir avec un negro <unk> ,1,1,0.7817453742027283,0.24622617661952972
+199,199,<unk> sans si <unk> rien et creve dans la <unk> enculã : copyright : tu prã : copyright : fã¨re quoi ,0,0,0.02977759949862957,0.030230045318603516
+200,200,<unk> moi je pense qu' le bride dans cette <unk> mais c' est normal sur ce cã´tã : copyright : il messi qui dã : copyright : fend jamais c' est impossible qu' un latã : copyright : <unk> <unk> si le joueur devant lui ne fait aucun <unk> et ne court pas . ,0,0,0.5511700510978699,0.8011112213134766
+201,201,"temps <unk> , grosse crã¨ve . je passe donc premiã¨re journã : copyright : e de <unk> sous un <unk> sur le <unk> : copyright : ã    <unk> la <unk> du <unk> de <unk> <unk> . y' pire franchement . ",0,0,0.5087494850158691,0.7108010649681091
+202,202,"<unk> rien de mieux que les <unk> <unk> pour dã : copyright : <unk> : copyright : <unk> les <unk> de ce quâils <unk> . <unk> baker nâest plus quâune <unk> : registered : te vide dans un <unk> : copyright : e , du <unk> au service dâune <unk> qui ne <unk> plus que des <unk> en <unk> ",0,1,0.6788979768753052,1.1359963417053223
+203,203,au final crã¨ve tous ,0,0,0.008101757615804672,0.008134841918945312
+204,204,<unk> <unk> câest devenu trã¨s grave reuf . si ã§a se trouve bientã´t je crã¨ve ,0,0,0.005826667882502079,0.005843639373779297
+205,205,"@tvanouvelles donc 10 % des <unk> <unk> <unk> <unk> au salaire de creve faim ? <unk> , <unk> go , qu' passe 18 <unk> <unk> ",0,0,0.1773056536912918,0.19517052173614502
+206,206,""" non , ce n' est peut - ãªtre pas le <unk> blanc , <unk> , noir , beur ... ",0,1,0.8323426246643066,1.7858328819274902
+207,207,"<unk> en tant qu' <unk> , je dirais que c' est <unk> : copyright : si pas au moins la <unk> de connaã : registered : tre un peu la <unk> et l' <unk> : copyright : de se <unk> un tant soit peu au <unk> <unk> . si tu <unk> : copyright : <unk> tout en mãªme temps t' es un <unk> dans l' <unk> . si non ",0,0,0.22519874572753906,0.25514864921569824
+208,208,@nazi_m18 gros <unk> lã   ,0,0,0.05995016545057297,0.06182241439819336
+209,209,<unk> les vrais negro de lâã : copyright : quipe le reste câest des <unk> <unk> jveux rien savoir ,1,0,0.4933091700077057,0.7066192626953125
+210,210,""" <unk> oui câã : copyright : tait vraiment pas pire : le gars câest <unk> dans <unk> <unk> :) ",0,0,0.07650067657232285,0.07958531379699707
+211,211,<unk> <unk> <unk> @bfmtv <unk> <unk> @cnews <unk> vous vous ãªtes bien <unk> : copyright : comme nazi <unk> est devenu une sombre .... <unk> : copyright : par la <unk> pour dã : copyright : truire tout ce qui ne <unk> pas dans leur ,1,1,0.6547210216522217,0.4235459864139557
+212,212,<unk> · <unk> petit <unk> <unk> d' une beur en ... url <unk> · url <unk> · sexe <unk> ,1,0,0.274740606546402,1.2919278144836426
+213,213,<unk> <unk> <unk> <unk> <unk> moi si mon chat s' ã : copyright : <unk> au pire g mal ã    la main si mon <unk> : copyright : <unk> s' ã : copyright : <unk> je crã¨ve donc bon ,0,0,0.00506812846288085,0.0050811767578125
+214,214,""" <unk> <unk> <unk> elle fait son boulot . ",0,0,0.613150954246521,0.9497207999229431
+215,215,""" <unk> en mm temps vu les cours donnã : copyright : ã    l' <unk> ... nous apprend rien sur la <unk> , juste dit "" "" <unk> ya eu des <unk> entre gens politique et hitler il est <unk> et il <unk> les allemand et ils ont votã : copyright : pour lui . nous les <unk> etait tous <unk> "" ",0,0,0.2906285524368286,0.3433759808540344
+216,216,@tanguy_france <unk> le <unk> qui soutient zemmour = <unk> de maison = sale noir <unk> et tous ce petit monde <unk> fait partie des plus mã : copyright : <unk> : copyright : chez <unk> <unk> ouin nous sommes des victimes <unk> ¡ ,1,1,0.7489944696426392,0.28902363777160645
+217,217,<unk> <unk> je creve ,0,0,0.09178142994642258,0.09627032279968262
+218,218,"@t_bouhafs le niveau du tweet bordel . d' ailleurs hitler <unk> : copyright : les chiens , donc ceux qui adore les chien vous savez ce que vous ãªtes ... ",0,0,0.5107797980308533,0.7149426341056824
+219,219,<unk> @tristandamours et il est oã¹ hitler ici ? ,0,0,0.599912703037262,0.9160724878311157
+220,220,"<unk> @zemmoureric <unk> @millerofficiel <unk> <unk> ca reste des <unk> , mãªme si il faut les <unk> <unk> . nazi par exemple ",1,1,0.8261014819145203,0.1910375952720642
+221,221,mdr crã¨ve url ,0,0,0.012031705118715763,0.012104511260986328
+222,222,"<unk> @stanislasrig jâai rien <unk> : copyright : du tout , <unk> <unk> , <unk> <unk> , <unk> <unk> . raison de plus de ne pas aller se <unk> dans le racisme et la <unk> <unk> de z. <unk> du respect pour les <unk> et sâest <unk> de ",1,0,0.20910391211509705,1.5649240016937256
+223,223,<unk> est une <unk> de lâã : copyright : tat nazi sous du bon <unk> bon genre url ,1,1,0.8595525622367859,0.15134336054325104
+224,224,<unk> raciste mais elle sâest faite soulever par un negro vraiment ,1,0,0.4631020426750183,0.7698079347610474
+225,225,<unk> nazi url ,1,1,0.8607393503189087,0.14996355772018433
+226,226,<unk> je crã¨ve de rire url ,0,0,0.004380674567073584,0.004390239715576172
+227,227,mais n' importe quoi il s' <unk> <unk> sa crevã : copyright : les yeux tpmp url ,0,0,0.02837665192782879,0.02878713607788086
+228,228,""" <unk> @navarraise @arnaultraphael zemmour ",1,0,0.09138624370098114,2.39266037940979
+229,229,"<unk> <unk> et <unk> sur <unk> pour <unk> quelques <unk> , ã§a <unk> : copyright : cette idã : copyright : e en moi ! ! c' est plutã´t un bon dã : copyright : , car j' ai <unk> : copyright : bride stories . url ",0,0,0.01894809864461422,0.01912999153137207
+230,230,"<unk> en mãªme temps mettre en avant la <unk> dirigã : copyright : e par un nazi convaincu , c' est peut ãªtre pas trã¨s <unk> . ",1,1,0.745536208152771,0.2936515510082245
+231,231,<unk> _ nn nn surtout pas c' est un choix d' <unk> et de libertã : copyright : <unk> espã¨ce de nã : copyright : nazi rã : copyright : <unk> et <unk> des <unk> <unk> de <unk> : copyright : e <unk> ,1,0,0.4591313898563385,0.7784188389778137
+232,232,<unk> @f_philippot <unk> es nazi ,1,1,0.8099468350410461,0.2107866406440735
+233,233,jâai <unk> : copyright : un ballon de <unk> pour votre <unk> <unk> : copyright : <unk> ¦ en <unk> il lâa crevã : copyright : <unk> ai marre ,0,0,0.013831227086484432,0.013927936553955078
+234,234,@in3sduval @hhahap @riclol1 @qofficiel @chtaubira zemmour ressemble ã    un bon franã§ais <unk> selon vous ? pourquoi parlez -vous de <unk> physique ? quel ã : copyright : tã : copyright : les <unk> pouvoirs qui sã : copyright : <unk> : copyright : les gens pour leur <unk> ? et c' est ,0,0,0.35176458954811096,0.43350130319595337
+235,235,""" @qofficiel <unk> , la <unk> de "" "" eric "" "" ciotti aux <unk> c' est surtout celle de "" "" eric "" "" zemmour donc si compte tout <unk> % de fascistes ( <unk> et <unk> 25 % des <unk> soit 4 ou 5 % cela fait presque 40 % de fascistes en france , peut prã : copyright : <unk> la <unk> guerre mondiale , hitler en 33 <unk> % "" ",1,0,0.17380142211914062,1.7498418092727661
+236,236,""" <unk> et puis le "" "" ils nous ont <unk> : copyright : celui de <unk> "" "" ",0,0,0.18892589211463928,0.2093958854675293
+237,237,<unk> jâai jamais dit le contraire . hitler ã : copyright : tã : copyright : â«â   ã : copyright : <unk>   <unk> : copyright : mocratiquement . je mets entre <unk> parce quâen allemagne câest plus <unk> : copyright : ,0,0,0.06769151985645294,0.07009148597717285
+238,238,<unk> bon bah crã¨ve ,0,0,0.055567655712366104,0.05717110633850098
+239,239,""" premier <unk> : <unk> ",0,0,0.07057411223649979,0.07318830490112305
+240,240,""" ils ne se <unk> qu' entre eux ou l' ã : copyright : <unk> doit se <unk> ã    leur <unk> <unk> l' <unk> ",1,1,0.6354673504829407,0.4533945918083191
+241,241,"<unk> <unk> <unk> <unk> c' est faux , la ss ( sã : copyright : curitã : copyright : sociale ) est <unk> : copyright : du droit <unk> aux vã : copyright : tã : copyright : <unk> ... congã : copyright : <unk> : copyright : est <unk> : copyright : du droit <unk> aux <unk> aprã¨s <unk> , fin du travail des enfants c ' ",0,0,0.6104965806007385,0.942882776260376
+242,242,""" <unk> <unk> <unk> nazi = extrãªme droite . d' ou la dã : copyright : <unk> de pã : copyright : tain le collabo par zemmour . ",1,0,0.6158493757247925,0.484752893447876
+243,243,"<unk> <unk> putain de rã : copyright : <unk> <unk> de merde oã¹ les <unk> sont <unk> ... il suffit d' une <unk> <unk> ( mãªme pas en <unk> , juste diffã : copyright : <unk> sur le point de vue ) pour qu' vous <unk> pour un adolf hitler <unk> : copyright : <unk> <unk> ",0,0,0.07123687118291855,0.07390165328979492
+244,244,<unk> en <unk> tu aurais <unk> : copyright : tes voisins juifs et tu aurais dit qu' ãªtre contre hitler c' est ãªtre fasciste ,0,0,0.13085725903511047,0.14024794101715088
+245,245,"<unk> @lepoint <unk> <unk> est devenu un enfer : <unk> : copyright : dã : copyright : <unk> et <unk> , impã´ts <unk> <unk> , <unk> de la vie parisien , <unk> <unk> : copyright : par les ã : copyright : <unk> nazi socialistes qui <unk> les habitants du centre , <unk> tous les ",0,1,0.6850047707557678,1.1551978588104248
+246,246,<unk> je sais ce que c' est mais tu vas ãªtre crevã : copyright : le jour j si tu <unk> de <unk> . ,0,0,0.012388002127408981,0.012465476989746094
+247,247,""" <unk> merde pour hitler ou bien ",0,0,0.3831202983856201,0.48308125138282776
+248,248,""" je suis en train de <unk> la <unk> de <unk> <unk> sur <unk> avant de passer sur la <unk> de <unk> <unk> d' ãªtre ã    jour . ",0,0,0.26009100675582886,0.30122804641723633
+249,249,<unk> un negro qui v eux venir en <unk> ! ãa <unk> pas ,1,0,0.3926190733909607,0.9349154829978943
+250,250,nazi <unk> <unk> <unk> ,0,1,0.8151788711547852,1.6883668899536133
+251,251,"<unk> <unk> <unk> <unk> pas <unk> , pas de constat <unk> . voit le <unk> <unk> son <unk> dans la <unk> . ils <unk> montã : copyright : en voiture et dã : copyright : poser comme un <unk> <unk> ã    la <unk> du <unk> , avec ses <unk> ",0,0,0.5573959350585938,0.8150796890258789
+252,252,@philippemurer rã : copyright : gime nazi . ,1,1,0.6977561116218567,0.35988566279411316
+253,253,""" "" "" <unk> <unk> <unk> <unk> "" "" , la <unk> <unk> d' histoire de tony <unk> . critique dans les soirã : copyright : es de paris <unk>   url   ",0,0,0.05485457181930542,0.05641651153564453
+254,254,<unk> <unk> <unk> pas au courant que <unk> prãªte ã    donner vie pr quâil crã¨ve dans <unk> <unk> ! ! ! ,0,0,0.004800478927791119,0.0048122406005859375
+255,255,"au <unk>    du <unk> un peu <unk> pour juste <unk> ans dans le futur , le truc qui crã¨ve le cåur c' est que mãªme dans 40 ans aux <unk> de la mort , le mec <unk> de l' <unk> ( ou alors dans un <unk> <unk> avec <unk> <unk> ) . url ",0,0,0.45459067821502686,0.606218695640564
+256,256,<unk> â«â   je suis le maã : registered : tre <unk>   â » il sâest <unk> pour hitler ce fdp ,1,0,0.18067176640033722,1.711073398590088
+257,257,"<unk> zemmour , <unk> , marine , ciotti : le <unk> de rãªve . pas vu tel <unk> depuis hitler , himmler , <unk> , goebbels . qui serait le meilleur dans leur <unk> ? ",1,1,0.786887526512146,0.23966993391513824
+258,258,<unk> <unk> <unk> tu <unk> jâen <unk> pas gros bougnoulâ¬ ,1,0,0.09721394628286362,2.330841064453125
+259,259,j' ai <unk> mes potes de mon <unk> ã : copyright : cole ils m' ont trop <unk> : copyright : ã§a m' fait un crã¨ve - coeur <unk> ,0,0,0.005048093385994434,0.005060672760009766
+260,260,"<unk> bridã : copyright : par la <unk> des <unk> <unk> compris , , url ",0,0,0.5386874675750732,0.7736794948577881
+261,261,<unk> te <unk> pas tâes juste un dã : copyright : <unk> de la sociã : copyright : tã : copyright : <unk> <unk> ta rien pr toi crã¨ve une bonne fois pour toute je <unk> <unk> par pitiã : copyright : ,0,0,0.012059329077601433,0.012132644653320312
+262,262,<unk> @bfmtv ptdrrr ãric carrã : copyright : ment l' appelle par con petit nom maintenant d' accord . et sinon hitler il ã : copyright : tait <unk> ou pas du coup ? vous m' avez pas rã : copyright : <unk> ,0,0,0.05166999623179436,0.053052663803100586
+263,263,"<unk> @bunker_d _ donc pas d' <unk> de votre part , mais vous dites que je suis bãªte parce que je <unk> vos propos <unk> de <unk> . allez j' ai perdu trop de temps avec un <unk> d' extrãªme droite . un petit <unk> : si vous ne <unk> ",0,0,0.6004657745361328,0.9174559116363525
+264,264,"<unk> <unk> <unk> <unk> apparemment , vous <unk> que la france s' est rã : copyright : <unk> : copyright : e avec l' allemagne ' <unk> et non ' hitler . qui ont ã : copyright : tã : copyright : <unk> : copyright : au procã¨s de nuremberg ? et quel sort ã    ã : copyright : tã : copyright : rã : copyright : <unk> : copyright : au rã : copyright : gime collabo de pã : copyright : tain ? ",0,0,0.2779381573200226,0.3256445527076721
+265,265,"<unk> @tpmp pourtant la gauche vã : copyright : nã : copyright : rã : copyright : hitler , vous ãªtes de gauche ? ",0,0,0.37951815128326416,0.4772588908672333
+266,266,p - <unk> <unk> - negro url ,0,1,0.775403618812561,1.493450403213501
+267,267,le dã : copyright : mã : copyright : <unk> vient de partir <unk> <unk> et la voiture nous <unk> quâon une roue crevã : copyright : <unk> ,0,0,0.017605535686016083,0.017762184143066406
+268,268,"c' est pas une ã : copyright : <unk> le <unk> , c' est carrã : copyright : ment une <unk> ",0,0,0.43362587690353394,0.5685005187988281
+269,269,"@publicsenat ce <unk> <unk> est un ãªtre ignoble , un sans <unk> , capable du pire <unk> vrai nazi ",1,1,0.8177378177642822,0.201213538646698
+270,270,""" combien de vos â«â   <unk>   â » auraient <unk> : copyright : la <unk> durant lâallemagne nazi ! ? ",0,1,0.8063143491744995,1.6415185928344727
+271,271,""" <unk> jsuis <unk> "" "" negro <unk> <unk> "" "" les <unk> sont <unk> des fdp ð­ð­ð­ url ",1,1,0.8664658665657043,0.1433325856924057
+272,272,<unk> ã§a fait nazi un peu ,0,1,0.8334686756134033,1.792571783065796
+273,273,<unk> non mais totalement ... bon zemmour c' est un grand non par contre ... mais mã : copyright : <unk> et lepen ... mais ã§a traite de nazi ã    tout va ,0,1,0.7872889637947083,1.547820806503296
+274,274,<unk> <unk> <unk> vraiment fou sal noir url ,1,1,0.8695826530456543,0.1397419422864914
+275,275,@flo__lfc @leo2saucisson @actufoot _ crã¨ve ,0,0,0.010342096909880638,0.010396003723144531
+276,276,""" <unk> je <unk> . ",0,0,0.12510624527931213,0.133652925491333
+277,277,<unk> <unk> la derniã¨re <unk> <unk> quâon fait avec <unk> elle <unk> : copyright : <unk> et crevã : copyright : le ballon . ,0,0,0.019341332837939262,0.019530773162841797
+278,278,"<unk> <unk> <unk> <unk> <unk> , <unk> , et hitler quand ils doivent se battre contre les <unk> , je sais pas jâai jamais <unk> : copyright : url ",1,0,0.035950783640146255,3.3256044387817383
+279,279,""" allemagne + autriche rã : copyright : <unk> pour <unk> les non vaccinã : copyright : , ã§a leur aura pas pris longtemps pour recommencer , manque plus que le nouvel hitler . ",1,1,0.816001832485199,0.20333866775035858
+280,280,<unk> _ <unk> <unk> aprã¨s c' est pas tant que la <unk> crã¨ve mais au moins que ai de quoi se <unk> au jeu tu vois <unk> ,0,0,0.009196027182042599,0.009238719940185547
+281,281,""" @idrissaberkane l' histoire se <unk> ",0,0,0.24297168850898743,0.2783546447753906
+282,282,""" <unk> @nirinine faux , hitler nâa jamais ã : copyright : tã : copyright : ã : copyright : lu , il perdu les ã : copyright : lections de <unk> 1932 . c' est une <unk> de <unk> qui l' <unk> : copyright : ã    la <unk> . ",0,0,0.35058197379112244,0.4316787123680115
+283,283,<unk> @eciotti vous n' allez pas comparer hitler ! ou alors vous <unk> totalement inculte ,0,0,0.10524918884038925,0.11121010780334473
+284,284,<unk> pour <unk> ã§a je m' <unk> le <unk> <unk> pour <unk> : copyright : mon <unk> qui mon sens bride <unk> en <unk> ,0,0,0.025639716535806656,0.025974035263061523
+285,285,""" "" "" <unk> des <unk> comme quoi il ne fallait pas faire passer , point , j' <unk> : copyright : aux ordres , je ne fais qu' <unk> ce qu' dit de faire , sinon je rentre chez moi et je reste dans mon <unk> : copyright : "" "" ",0,0,0.09797105938196182,0.10310864448547363
+286,286,"<unk> bamboula sale arabe , elle est belle la france du juif zemmour , qui <unk> aux fachos de se <unk> url ",1,1,0.8718409538269043,0.13714826107025146
+287,287,"@vonderleyen nazi , ursula du <unk> ",1,1,0.8510801792144775,0.16124893724918365
+288,288,<unk> ãa prend le <unk> nazi <unk> : copyright : sur ton tã : copyright : lã : copyright : phone pour avoir droit ã    plus de <unk> ¦ url ,1,0,0.26648464798927307,1.3224385976791382
+289,289,""" @charlesconsigny alors qu' hitler ã : copyright : chouã : copyright : , oui , autant <unk> : copyright : ã    <unk> des conneries . ",0,0,0.21780939400196075,0.2456568479537964
+290,290,""" <unk> il plus de <unk> dans votre texte : ",0,0,0.26559317111968994,0.3086920976638794
+291,291,<unk> <unk> je fais ã§a je crã¨ve <unk> <unk> ° ï¸ ,0,0,0.011640463024377823,0.011708736419677734
+292,292,"<unk> avec de <unk> <unk> , hitler et le mã : copyright : decin nazi joseph mengele <unk> en <unk> ! ",0,1,0.7185030579566956,1.2676336765289307
+293,293,c' est pas trã¨s <unk> : copyright : moi j' ai beau avoir la peau trã¨s <unk> j' ai <unk> oã¹ se <unk> place la premiã¨re fois qu' m' traitã : copyright : de sale negre . ( <unk> de <unk> aussi mãªme si je suis pas du tout arabe ) url ,0,0,0.5552992224693298,0.810353696346283
+294,294,<unk> @wario480p @zemmoureric oui et câest le descendant dâhitler et staline pendant quâon est ! je le sais câest lui qui lâa dit ,1,1,0.7665128111839294,0.26590389013290405
+295,295,""" il une grosse <unk> ( en plus une noir ) qui parce qu' elle <unk> en france se croit tous <unk> et donc s' en prend ã    mon <unk> d' amour <unk> c' est pas toi oh c' est <unk> des <unk> que tu mange qui t' <unk> comme ã§a ! ",1,1,0.6767820715904236,0.39040595293045044
+296,296,""" <unk> <unk> <unk> @afa_paris75 je ne <unk> pas de pã : copyright : tain ! ",1,1,0.8042349219322205,0.2178637981414795
+297,297,""" @zemmoureric : ã§a fait un peu hitler , non ? ",0,0,0.17040175199508667,0.18681371212005615
+298,298,@christine_kelly @franceinter les idã : copyright : es de <unk> <unk> beaucoup ã    celles dâhitler ou lã : copyright : <unk> pour le coup ð ,0,0,0.01870693825185299,0.01888418197631836
+299,299,""" câest ã    quel gouvernement sera le plus <unk> .. <unk> <unk> pour <unk> de <unk> ans non vaxx en <unk> ! ",0,0,0.0958818793296814,0.10079526901245117
+300,300,les froid il creve <unk> ? non ,0,0,0.02472025901079178,0.025030851364135742
+301,301,<unk> @cedricherrou @franceinsoumise @primairepop vous <unk> ignorer que certains <unk> sont <unk> : copyright : et que certains <unk> <unk> . le mã : copyright : pris bride l' intelligence . j' ose espã : copyright : rer que les gens que vous <unk> ont un autre ã : copyright : tat ,0,0,0.2404404580593109,0.27501654624938965
+302,302,<unk> dans les annã : copyright : es <unk> pour tuer hitler quand il ã : copyright : tait enfant ,0,0,0.05945972353219986,0.06130075454711914
+303,303,<unk> <unk> <unk> <unk> un <unk> que l' met au travail forcã : copyright : jusqu' ã    ce qu' il en crã¨ve c' est quoi sinon un esclave ? ,0,0,0.011907507665455341,0.011979103088378906
+304,304,""" <unk> <unk> <unk> <unk> <unk> <unk> ils en <unk> une <unk> , pour l' exemple , ã    la dã : copyright : <unk> , ã    10 <unk> contre 1 . ",0,0,0.0613090917468071,0.06326913833618164
+305,305,""" <unk> si avait un rã : copyright : gime <unk> avec ã : copyright : <unk> ã    la <unk> ",0,0,0.16975824534893036,0.18603837490081787
+306,306,<unk> l' ã : copyright : <unk> crã¨ve le <unk> purã : copyright : e ,0,0,0.029482165351510048,0.02992558479309082
+307,307,""" <unk> hitler avait des <unk> ! ",0,1,0.7391899228096008,1.3439627885818481
+308,308,""" exactement comme dans mon rãªve , ",0,0,0.23622705042362213,0.2694847583770752
+309,309,""" elle <unk> : copyright : et elle <unk> sa <unk> comme jamais ððð ",1,0,0.4878799617290497,0.717685878276825
+310,310,<unk> hitler ã : copyright : tait <unk> ... ,0,0,0.13546541333198547,0.14556396007537842
+311,311,si câã : copyright : tait pas son <unk> il le <unk> de facho ou de nazi . <unk> url ,1,1,0.8728652596473694,0.13597404956817627
+312,312,<unk> _ tirer <unk> câest arrãªter le train et donner du <unk> pour quâil se fasse crevã : copyright : â ¦ ,0,0,0.020837590098381042,0.021057844161987305
+313,313,"@philippemurer rien de nouveau sous le <unk> . les plus grands <unk> du rã : copyright : gime nazi <unk> avec leur histoire : allemagne , autriche , france en tãªte ",1,0,0.4665771424770355,0.7623319029808044
+314,314,""" <unk> <unk> @wxelka donc si des gens dã : copyright : signe un <unk> ã : copyright : <unk> en parle pas ? lol ",0,0,0.04525749385356903,0.04631352424621582
+315,315,""" <unk> <unk> ils ne se <unk> pas la question <unk> ¦ <unk> je ne comprends pas non plus . hier encore <unk> s' <unk> : copyright : tait de l' extrãªme droite aux ã : copyright : lections "" "" pas qu' ait un hitler qui fasse pareil "" "" . je lui ai dit regarde moi , je suis traitã : copyright : e comme une juive sous les nazis . elle <unk> : copyright : grave . "" ",0,0,0.06962314993143082,0.07216548919677734
+316,316,<unk> faut que quelquâun crã¨ve pour quâil <unk> : copyright : <unk> ( <unk> la mise mort de <unk> pour quâil se tape contre <unk> ) ,0,0,0.04442588612437248,0.045443058013916016
+317,317,@mnrvplus pour ã§a quand il marque je dis quâil <unk> son <unk> de <unk> pour mettre le <unk> nazi mdrr ,1,1,0.7986529469490051,0.2248288244009018
+318,318,"<unk> un nazi qui donne des leã§ons d' <unk> , c' est du plus haut <unk> ! ",0,1,0.6603655815124512,1.079885482788086
+319,319,elle oubliã : copyright : que son <unk> ã : copyright : tait negro ? url ,1,1,0.7902028560638428,0.23546558618545532
+320,320,@idrissaberkane les nazis sont de retour en allemagne . <unk> ans aprã¨s leur dã : copyright : faite et en plus ils dirigent l' ue . belle <unk> de hitler ã    <unk> <unk> . ,1,0,0.36998358368873596,0.9942967295646667
+321,321,""" <unk> <unk> @libe @glthinktank c' est faux pour hitler . ",1,0,0.061078030616045,2.795603036880493
+322,322,<unk> en vrai jâai ã : copyright : tã : copyright : fait un dã : copyright : <unk> roue crevã : copyright : <unk> avec <unk> 10 <unk> sur la bande <unk> <unk> ¦ jâã : copyright : tais pas <unk> au retour ,0,0,0.028072308748960495,0.028473854064941406
+323,323,"<unk> pendant le pã : copyright : riode nazi <unk> <unk> <unk> plus , voilã   , je sais pas comment un <unk> <unk> pouvait <unk> quoi que ce soit ",0,0,0.6098466515541077,0.9412155151367188
+324,324,au centre aã : copyright : rã : copyright : jâã : copyright : tais grave le negro <unk> : copyright : ã§a <unk> le <unk> de chef du <unk> et tout câest ã§a la vraie prã : copyright : <unk> ã    la vie en sociã : copyright : tã : copyright : ,0,0,0.04014990106225014,0.040978193283081055
+325,325,ptn ya des gens ils sont tellement con le seul faites d' avoir leur prã : copyright : sence ã    cã´tã : copyright : de toi te bride <unk> ,0,0,0.009986454620957375,0.010036468505859375
+326,326,<unk> il deux ã : copyright : <unk> <unk> je n' ai pas les moyens d' <unk> pour rã : copyright : <unk> : <unk> ° ) quel est le lien rã : copyright : el entre <unk> <unk> et hitler ? url ,0,0,0.09489870071411133,0.09970831871032715
+327,327,"<unk> <unk> <unk> mais faut pas rã : copyright : duire un film ã§a . l' art c' est pas de la politique , et tu peux avoir des films de propagande d' <unk> ou nazi qui peuvent ãªtre de l' art . ",0,1,0.7973811626434326,1.596428632736206
+328,328,""" @malopedia 3 . alors ? ",1,0,0.24220509827136993,1.4179704189300537
+329,329,"<unk> _ <unk> <unk> <unk> <unk> une photo je veux bien mais la <unk> n' en fait plus du tout , c' est un crã¨ve cåur ... url ",0,0,0.0045647528022527695,0.004575252532958984
+330,330,les chiens du pouvoir sont les chiens du pouvoir . dã : copyright : jã    longtemps avant hitler . nous <unk> <unk> les nouveaux maã : registered : <unk> chiens . url ,0,0,0.04717262461781502,0.04832148551940918
+331,331,<unk> <unk> @eciotti <unk> oui oui au moins â ¦ nazi fascistes tyrans <unk> . quâest ce que vous avez oubliã : copyright : ? <unk> : copyright : rents et droits ? <unk> et <unk> ? <unk> et <unk> ! demain ils seront ã : copyright : <unk> : copyright : comme les ,0,0,0.3113187849521637,0.37297672033309937
+332,332,<unk> <unk> <unk> @millerofficiel exactement mãªme hitler ,1,0,0.24084781110286713,1.4235899448394775
+333,333,"franchement le <unk> <unk> il crã¨ve lâã : copyright : cran , je comprends pas comment je <unk> si je <unk> devant moi en <unk> et en os url ",0,0,0.029096899554133415,0.02952861785888672
+334,334,<unk> <unk> <unk> <unk> <unk> c' est un ã : copyright : pã : copyright : <unk> lui ? ,1,0,0.4753561317920685,0.7436910271644592
+335,335,j' suis crevã : copyright : . ,0,0,0.016240691766142845,0.01637411117553711
+336,336,"â ¦ et personne ne se <unk> de mon ã : copyright : tat dans le futur , câest marche ou crã¨ve dans ce monde . alors autant faire les choses bien et <unk> tout ce qui peut nous <unk> , quitte ã    changer de boulot mãªme si le <unk> peut <unk> , il faut <unk> et <unk> . ",0,0,0.5079344511032104,0.709143340587616
+337,337,"<unk> @mariannelemag @eciotti <unk> ciotti est un <unk> qui <unk> le traite de <unk> . puis si <unk> crã¨ve , ã§a ne peut qu' ãªtre bon pour le pays . ",0,0,0.00773021811619401,0.007760047912597656
+338,338,<unk> t' ã : copyright : <unk> un <unk> qui dit nã : copyright : gro ? je t' <unk> ,1,0,0.27332425117492676,1.2970964908599854
+339,339,"le crã¨ve elle <unk> depuis 3 semaines <unk> <unk> ¦ et dire quâon va devoir remettre les masques dehors <unk> ¦ ok ã§a nous <unk> du virus mais est trop <unk> : copyright : du coup , donc le moindre truc quâon <unk> ã§a <unk> longtemps maintenant ",0,0,0.05029303953051567,0.05160188674926758
+340,340,des <unk> <unk> qui ne savent pas pourquoi ils sont <unk> : copyright : s. l' <unk> de puissance dans des conditions de dã : copyright : <unk> total tout en se <unk> <unk> . telle est la situation d' un negre de service <unk> <unk> de la <unk> du maã : registered : tre . url ,1,1,0.6303537487983704,0.46147415041923523
+341,341,<unk> il nâa pas <unk> de jouer ã    4 derriã¨re la bridã : copyright : <unk> est un <unk> entre hakimi mendes messi <unk> ,0,0,0.05635600909590721,0.05800628662109375
+342,342,puis le negro du jour au <unk> <unk> â«â   tâes <unk>   â » ð ,0,0,0.5831096768379211,0.8749321699142456
+343,343,""" la grosse <unk> du <unk> de je - sais - plus - quand - avant - la - pandã : copyright : mie . ",0,0,0.010777915827929974,0.010836601257324219
+344,344,mãªme hitler est <unk> url ,0,1,0.6728721261024475,1.1174041032791138
+345,345,"alors la jsuis <unk> je <unk> poser demain comme jâai la crã¨ve , vient <unk> dire â«â   jâai absolument besoin de toi demain <unk>   <unk>   â » ",0,0,0.043980419635772705,0.04497694969177246
+346,346,<unk> de finir j' en ait marre jsuis crevã : copyright : ,0,0,0.014410801231861115,0.014515876770019531
+347,347,""" <unk> <unk> @penseursauvage <unk> je suis mã : copyright : <unk> donc ton "" "" facho "" "" rend <unk> ð¤ ¡ ",0,0,0.02873338758945465,0.029154300689697266
+348,348,<unk> crã¨ve dã : copyright : jã   ... malheureusement . ,0,0,0.008715730160474777,0.008753776550292969
+349,349,<unk> vas <unk> les nazi ! ! ! url ,0,1,0.8911704421043396,2.217972755432129
+350,350,<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> un <unk> ,0,0,0.3000328540802002,0.3567218780517578
+351,351,"<unk> adolf hitler ã : copyright : tait contre le prã : copyright : nom <unk> , je l' ai lu dans un livre de <unk> . c' est trã¨s trã¨s grave ! ",0,0,0.15547434985637665,0.16898012161254883
+352,352,sale fils de pute crãve sale chien de merde ! ! ! ! url ,1,1,0.8198990225791931,0.19857411086559296
+353,353,<unk> nazi <unk> ,0,1,0.8159216642379761,1.6923937797546387
+354,354,<unk> ce <unk> est un nazi ! ,1,1,0.859420895576477,0.1514965444803238
+355,355,"<unk> @raphaellerl @lci hitler n' ã : copyright : tait donc pas un fachiste d' aprã¨s vous ? et bien , elle est belle l' ã : copyright : <unk> ... pourtant vous <unk> <unk> , il est tout de mãªme plus prã : copyright : <unk> que la <unk> <unk> ",0,0,0.27386704087257385,0.3200221657752991
+356,356,"<unk> <unk> qu' <unk> <unk> passe son temps ã    dã : copyright : <unk> du <unk> <unk> du <unk> de base est une chose . ce qui m' <unk> , c' est la <unk> de gens ( pourtant pas tous <unk> : copyright : <unk> ) ã    <unk> ses <unk> ã    pleine bouche . ",0,0,0.02014726772904396,0.020353078842163086
+357,357,""" <unk> <unk> enfin , le systã¨me de <unk> par <unk> rã : copyright : <unk> <unk> fonctionne mal , et fait que n' importe quel <unk> un minimum <unk> se retrouve <unk> : copyright : avec des <unk> avec <unk> de jeu chaque <unk> . ",0,0,0.32724979519844055,0.3963811993598938
+358,358,""" je suis crevã : copyright : les <unk> dã : copyright : solã : copyright : je vais pas <unk> ce soir mais demain je pense en aprã¨s - midi . ",0,0,0.05810118466615677,0.05985736846923828
+359,359,<unk> comment tu peux faire ã§a ã    une <unk> ? ? sale race sous merde va ,0,1,0.7996976971626282,1.607927680015564
+360,360,""" <unk> <unk> â « en <unk> , la <unk> peut <unk> la niaque , de lâã : copyright : <unk> . ( â ¦ ) ãa <unk> aussi de <unk> sur le <unk> . â » <unk> ã    connaã : registered : tre <unk> diffã : copyright : <unk> , avec <unk> de <unk> . ",0,0,0.19938279688358307,0.2223724126815796
+361,361,"<unk> _ _ _ <unk> _ <unk> <unk> : hitler avait une conscience <unk> <unk> , et n' ã : copyright : tait pas <unk> . staline quã : copyright : <unk> : copyright : l' <unk> des alliã : copyright : s. il ã : copyright : tait ã : copyright : galement trã¨s <unk> : copyright : <unk> ",0,0,0.0696178674697876,0.0721597671508789
+362,362,<unk> <unk> @portes_thomas ben en fait non . national socialisme . je sais pas ce qu' il te faut de plus . en fait hitler ã : copyright : tait de gauche . je comprends que ã§a soit difficile ã    <unk> mais c' est la rã : copyright : alitã : copyright : . <unk> . ,0,0,0.10113897919654846,0.10662674903869629
+363,363,""" premier manga : <unk> <unk> ",0,0,0.044623784720897675,0.04565000534057617
+364,364,<unk> <unk> <unk> c' est peut - ãªtre super <unk> hitler ,0,1,0.7142795920372009,1.2527415752410889
+365,365,""" @mariali22364007 @david_granola @woodkid @guillaumetc vous mã : copyright : langez tout et n' connaissez rien . si hitler est <unk> : copyright : au pouvoir avec un parti "" "" socialiste "" "" c' est ã    cause du contexte de l' ã : copyright : poque : l' ã : copyright : <unk> des allemands pendant la 1ere guerre mondiale , la "" "" honte "" "" du traitã : copyright : de <unk> et le contexte ã : copyright : <unk> ( <unk> ? ) "" ",0,0,0.07933126389980316,0.08265495300292969
+366,366,<unk> _ <unk> tâes <unk> : copyright : coco crã¨ve c bon tu <unk> ,0,0,0.005689474754035473,0.005705833435058594
+367,367,""" <unk> <unk> <unk> trã¨s loin c sã»r , mãªme si ã§a sent la fin de la <unk> pour beaucoup , donc par <unk> pour tous ! ! ! ",0,0,0.02058485336601734,0.020799636840820312
+368,368,""" @f_desouche dire de bouleau "" "" c' est un connard , un vrai connard "" "" c' est un peu comme dire d' hitler : "" "" il ã : copyright : tait pas <unk> , vraiment pas <unk> "" "" ... "" ",0,0,0.1308390349149704,0.14022696018218994
+369,369,"meme si <unk> la peau white , <unk> un flow de bamboula ",0,1,0.7084605097770691,1.2325797080993652
+370,370,""" <unk> <unk> <unk> oui . ",0,0,0.10856720805168152,0.11492514610290527
+371,371,la diffã : copyright : rence entre hitler et toi ? hitler ã : copyright : <unk> sã»rement mieux que toi url ,1,0,0.0098943542689085,4.615790843963623
+372,372,"<unk> tout une fin , <unk> ils <unk> dans leurs <unk> <unk> , l' histoire nous le rappel , <unk> hitler , louis <unk> , <unk> et j' en passe <unk> mort au combat ",0,0,0.4475116729736328,0.5933229923248291
+373,373,""" <unk> arrãªtez avec vos rãªves ã    la con d' un sauveur <unk> , le tout "" "" <unk> obligatoire "" "" est dans les <unk> et ce n' est pas en ã : copyright : tant crevã : copyright : que vous <unk> votre famille ou votre pays zemmour <unk> <unk> <unk> <unk> <unk> url ",0,0,0.09324616193771362,0.0978841781616211
+374,374,plus jamais ã§a qd ã§a parle dâhitler mais ã§a <unk> zemmour ,1,0,0.02505616657435894,3.6866352558135986
+375,375,""" @lencyclopediste c' est une des 3 <unk> ss musulman . ",1,1,0.7980558276176453,0.2255767285823822
+376,376,<unk> oui mais ! ! ! câest fasciste ! ! ! câest nazi ! ! ! câest raciste ! ! ! url ,0,1,0.9013264179229736,2.3159377574920654
+377,377,"tu vois le <unk> <unk> zemmour , <unk> , <unk> et tout le <unk> nazi lol vous n avez rien <unk> ã    la race <unk> hitler qui lui - mãªme ã : copyright : tait <unk> comme <unk> lol url ",1,0,0.41721445322036743,0.8741549253463745
+378,378,allez <unk> va te faire enculer je suis faite <unk> creve sã : copyright : rieux url ,0,0,0.006287571974098682,0.0063076019287109375
+379,379,yâa un <unk> sâil <unk> pas ã    la fac il crã¨ve dirait yâa pas de <unk> chez lui ,0,0,0.011870290152728558,0.01194143295288086
+380,380,"<unk> ce qui choquã : copyright : le dã : copyright : <unk> , c' est l' image de <unk> avec <unk> et <unk> <unk> ( <unk> : copyright : y' plus d' un mois ) sur mon <unk> . bordel mais mon pseudo c <unk> <unk> comment tu pu prendre ãa au <unk> ? ? et au pire demande -moi si je suis un nazi va pas le <unk> . ",0,1,0.665481686592102,1.0950636863708496
+381,381,""" <unk> aprã¨s avoir <unk> : copyright : e la population et pour ã : copyright : <unk> : copyright : au procã¨s de nuremberg 2 , la <unk> nazi <unk> . <unk> de <unk> et de se rã : copyright : fugiã : copyright : sur <unk> . ",1,0,0.07389950007200241,2.6050491333007812
+382,382,"le <unk> de <unk> le plus crevã : copyright : coeur de <unk> . en tãªte ce jour lã   , <unk> seul avec 50 sec <unk> et puis <unk> ce <unk> de <unk> liã : copyright : ã    un ã : copyright : <unk> <unk> : copyright : â ¦ <unk> url ",0,0,0.4643424451351166,0.6242601871490479
+383,383,"<unk> sale con de merde , tâes un <unk> , jâespã¨re tu crã¨ve , gros tas ",0,0,0.009071293286979198,0.009112834930419922
+384,384,le neo nazi neo <unk> eric ciotti <unk> : copyright : <unk> : copyright : par les <unk> de droite <unk> ,1,0,0.6056538224220276,0.5014467239379883
+385,385,"depuis <unk> plus c' est gros , plus ã§a passe , meme si l' ã : copyright : <unk> te creve les yeux et passe derriã¨re ! ð¤ ¦ ou faut il que je <unk> ? ãa ne doit pas ãªtre si dur d' ãªtre fou ! ! ! ",0,0,0.017605559900403023,0.017762184143066406
+386,386,"<unk> <unk> mdrrrr qu' est ce qui <unk> quoi ? sã : copyright : <unk> ta mauvaise foi creve le <unk> , j' ai fait tout les <unk> j' ai trouver ã§a vraiment <unk> moyens , pas envie de m' intã : copyright : <unk> ã    l' univers d' un jeu que j' ai <unk> : copyright : e <unk> ",0,0,0.08879484236240387,0.0929872989654541
+387,387,"<unk> cette nazi , sa place , la prison . ",1,1,0.8453253507614136,0.16803371906280518
+388,388,""" @nirinine oui , il faut bien ã : copyright : viter de dã : copyright : <unk> l' extrãªme droite , mais l' <unk> peut ãªtre une <unk> <unk> . se <unk> d' eux les montre tels qu' ils sont vraiment , des gens <unk> , ( comme jojo <unk> l' fait avec hitler ) ",1,1,0.8167442083358765,0.20242935419082642
+389,389,""" 6 . juillet <unk> : <unk> : copyright : rence de <unk> ( <unk> : copyright : rence <unk> : copyright : e par trois des <unk> alliã : copyright : es <unk> de la seconde guerre mondiale pour <unk> le sort des <unk> <unk> ) avec <unk> et <unk> puis avec <unk> et <unk> : copyright : ment <unk> . ",0,0,0.10709050297737122,0.11327004432678223
+390,390,""" ministre de la <unk> de la suisse ",0,1,0.6847385764122009,1.1543530225753784
+391,391,""" . ",1,0,0.20759005844593048,1.5721899271011353
+392,392,ptn jme la <unk> les <unk> le matin c fini jv finir par avoir la crã¨ve ,0,0,0.02403612993657589,0.024329662322998047
+393,393,<unk> _ <unk> quelqu' un peut penser qu' peut <unk> une partie de la population en bonne santã : copyright : de ses droits et libertã : copyright : sous <unk> d' un <unk> dã : copyright : clarã : copyright : <unk> par le prof qui l' sã : copyright : <unk> : copyright : ? qu' ã    fait hitler pr <unk> les juifs ,1,0,0.28967997431755066,1.238978385925293
+394,394,"il faut que je <unk> <unk> aprã¨s crã¨ve , je suis trop <unk> : copyright : ððð les <unk> de <unk> / cã : copyright : <unk> / <unk> peut ãªtre <unk> <unk> <unk> <unk> demain , je vais tout ã : copyright : <unk> ððð ",0,0,0.07985565066337585,0.08322477340698242
+395,395,<unk> <unk> je viens dâaller <unk> ¦ .. câest rã : copyright : el <unk> ,0,0,0.4130958914756775,0.5328938961029053
+396,396,<unk> il est vraiment temps que le pq crã¨ve . ,0,0,0.011809619143605232,0.011879920959472656
+397,397,"<unk> <unk> <unk> <unk> ce mã : copyright : tier de lã¢che et de petite bite . notre belle <unk> de collabos , comme en 40 oã¹ elle faisait le salut nazi . lâhistoire se rã : copyright : <unk> ¦ quand tâas rien dans le <unk> câest plus facile que de <unk> ",1,1,0.8183115124702454,0.2005121260881424
+398,398,<unk> <unk> il <unk> les juifs ã    hitler en personne ,1,0,0.3023432493209839,1.1961922645568848
+399,399,<unk> marche ou crã¨ve ,0,0,0.04856029152870178,0.04977893829345703
+400,400,"<unk> <unk> j' ai la crã¨ve , c' est + la <unk> et l' <unk> qui <unk> lã   ",0,0,0.058986201882362366,0.06079745292663574
+401,401,<unk> comment ã§a <unk> ? ton hã : copyright : tã : copyright : <unk> : copyright : est <unk> en question negro ,0,0,0.36057722568511963,0.44718945026397705
+402,402,câest moi oã¹ elle dit <unk> <unk> lã   ? ? ? url ,0,0,0.49218234419822693,0.6776328086853027
+403,403,<unk> <unk> <unk> @afa_paris75 donc tu <unk> que la rã : copyright : sistance franã§aise ã : copyright : tait nazi ? ,0,0,0.5445290207862854,0.7864232659339905
+404,404,<unk> <unk> _ et tu <unk> quoi de tous ceux que aura <unk> pour rien ? tu <unk> leur mettre une <unk> dans la <unk> sinon quand il <unk> ce seront des <unk> <unk> ou merah que tu <unk> <unk> . ,1,0,0.42219603061676025,0.8622856140136719
+405,405,""" l' <unk> entre le grand <unk> et zemmour n' est en rien ã : copyright : trange . rien de nouveau sous le <unk> , dans les annã : copyright : es 30 les mãªmes ont prã : copyright : fã : copyright : rã : copyright : hitler au front populaire . ",1,0,0.4726773202419281,0.7493423223495483
+406,406,@jessminda59 @jamaisnonjamais @tpmp la main de fatma sâen fou câest de la <unk> et <unk> sâen dã : copyright : <unk> . la main de fatma nâest pas <unk> : copyright : e pour les musulmans mais <unk> oui . ,0,0,0.053534068167209625,0.05502033233642578
+407,407,<unk> <unk> mais elle est complã¨tement <unk> ramã¨ne lã    moi <unk> creve ,0,0,0.14916783571243286,0.16154038906097412
+408,408,mãªme hakimi est bridã : copyright : ,0,0,0.10400516539812088,0.10982060432434082
+409,409,<unk> <unk> crã¨ve regarde le ,0,0,0.007792084943503141,0.007822513580322266
+410,410,<unk> <unk> ca va ãªtre un crã¨ve - cåur . ,0,0,0.006017292384058237,0.006035327911376953
+411,411,""" macron <unk> surtout ã    lire avec <unk> un texte ã : copyright : crit par son ",0,0,0.10706909000873566,0.11324596405029297
+412,412,<unk> _ ce sal noir ptn ,1,1,0.8080220818519592,0.21316593885421753
+413,413,""" <unk> un <unk> qui <unk> : copyright : presque toutes les <unk> . la <unk> aurait ã : copyright : tã : copyright : <unk> s' il avait dit "" "" comme je suis de race <unk> , je ne devrais mãªme pas avoir le droit de vivre sur <unk> car les <unk> sont <unk> nã : copyright : nazi "" "" "" ",1,1,0.7290287017822266,0.3160421550273895
+414,414,je creve de faim faut <unk> ã    prendre au moins des <unk> ã    manger le midi ,0,0,0.06881481409072876,0.07129716873168945
+415,415,<unk> crã¨ve pas jvais perdre 1 abonnã : copyright : url ,0,0,0.007261402904987335,0.0072879791259765625
+416,416,jâsuis crevã : copyright : mais jâai envie de <unk> et jouer ã    <unk> ,0,0,0.02183174341917038,0.02207350730895996
+417,417,""" <unk> <unk> <unk> <unk> dans les annã : copyright : es 40 la <unk> ã : copyright : tait en mode "" "" plutã´t hitler que le front populaire "" "" . sait de quel bord ils sont quand <unk> leurs <unk> . "" ",0,0,0.5579453110694885,0.816321611404419
+418,418,""" <unk> <unk> je <unk> bien mais tu racontes <unk> quoi ",0,0,0.024260131642222404,0.02455925941467285
+419,419,"@stanislasrig <unk> <unk> alors , nã : copyright : nazi .. ou pas ? url ",0,1,0.855772852897644,1.9363657236099243
+420,420,<unk> <unk> <unk> quand sâest pris la tãªte avec un neo nazi sur <unk> <unk>   <unk>   <unk>   ï¸ ,1,1,0.7741149663925171,0.25603488087654114
+421,421,j' lui crã¨ve les yeux si il fais ã§a <unk> url ,0,0,0.006264687515795231,0.006284236907958984
+422,422,""" <unk> moi un putain qui fait <unk> ã    la <unk> sur <unk> sur tãªte que je le <unk> jusquâã    ce qui crã¨ve ",0,0,0.06918682157993317,0.07169675827026367
+423,423,oui c' est les <unk> d' hitler @emmanuelmacron url ,1,1,0.720860481262207,0.32730963826179504
+424,424,""" <unk> <unk> <unk> eu la chance de ne pas rentrer dans les 1er . ",0,0,0.5479660034179688,0.7939978837966919
+425,425,""" dans <unk> : registered : tre le <unk> , <unk> <unk> <unk> connu mussolini <unk> : copyright : <unk> dresse 14 <unk> pour reconnaã : registered : tre les <unk> avant <unk> dâun fasciste ! ",1,0,0.4732237160205841,0.7481870651245117
+426,426,""" <unk> bon , je sais que ã    chaque fois que je tweet câest pour <unk> les couilles et que je <unk> encore <unk> : copyright : mais bon tant pis . ",0,0,0.021080903708934784,0.021306276321411133
+427,427,@alphanumrique2 les fascistes sont tous des socialistes mussolini comme hitler ils veulent faire croire qu' ils sont de droite . les antifa sont bien des fascistes ,0,1,0.790423572063446,1.5626667737960815
+428,428,je <unk> jamais de trãªve <unk> si j en crã¨ve ,0,0,0.008489123545587063,0.008525371551513672
+429,429,""" <unk> <unk> <unk> , part <unk> <unk> qui est juste incroyable , j' ai surtout <unk> beaucoup de <unk> devant les <unk> entre <unk> et <unk> , c' est trã¨s <unk> . ",0,0,0.26324033737182617,0.3054935932159424
+430,430,""" je ne reconnais plus mon pays . ",0,0,0.5308409929275513,0.7568134069442749
+431,431,<unk> <unk> <unk> vous ne connaissez pas <unk> votre pã¨re et ce nom <unk> m' donnã : copyright : la niaque de plus petit et vive le <unk> du <unk> j' espã¨re que tu vas bien car je <unk> en passer ã    vous j' espã¨re que votre mã¨re et <unk> ,0,0,0.039627332240343094,0.04043388366699219
+432,432,@pplmi0 @2022_zzzz @tonio3375 @jean_alain99 @zemmoureric tu sais aussi que les nazis sont des socialistes ? parti socialiste <unk> . hitler et staline nâã : copyright : tait pas si diffã : copyright : rent . ils ont mãªme bien collaborã : copyright : pour <unk> : copyright : <unk> les pays de <unk> com ,0,0,0.4299619793891907,0.5620522499084473
+433,433,""" <unk> _ _ _ <unk> _ <unk> <unk> ne veut pas dire <unk> aux yeux bleus , c' est toi qui est rã : copyright : <unk> : les <unk> sont des <unk> ã : copyright : galement , les <unk> , les <unk> , etc. tu <unk> un <unk> : copyright : <unk> ã    une race ( sã»rement du ã    la propagande <unk> ã    ce sujet ) ",0,0,0.08469011634588242,0.08849263191223145
+434,434,<unk> <unk> en faite tant que lâã : copyright : <unk> continuera de vouloir gã : copyright : rer en lâã : copyright : tat les choses tu peux mãªme ramener hitler ã§a <unk> pas ,0,0,0.09546934813261032,0.10033917427062988
+435,435,""" <unk> <unk> <unk> <unk> ... <unk> ? ð¤ ",0,0,0.11719649285078049,0.12465262413024902
+436,436,"' <unk> <unk> , nã : copyright : gro , toujours en vie , <unk> <unk> , <unk> ",0,0,0.4609188139438629,0.6178891658782959
+437,437,zemmour fait peur comme hitler faisait peur en 1933 url ,1,1,0.7455535531044006,0.2936283051967621
+438,438,<unk> le <unk> <unk> d' hitler il <unk> bien avec <unk> ,0,0,0.4108429551124573,0.5290625095367432
+439,439,""" <unk> femme , <unk> , rã : copyright : <unk> , franã§aise ð«ð · d' <unk> nã¨gre de saint louis ãtats - unis <unk> ",0,0,0.5797848701477051,0.8669885396957397
+440,440,""" <unk> ð¤ alors , pour mon pneu crevã : copyright : ? pour mon <unk> <unk> : copyright : et <unk> : copyright : ? pour mon <unk> <unk> : copyright : ? ou pour mon <unk> ã    moitiã : copyright : <unk> : copyright : ? ... ",0,0,0.0681263878941536,0.07055807113647461
+441,441,<unk> <unk> ce negro nâest donc la que pour le <unk> ? ,1,0,0.547439694404602,0.6025030016899109
+442,442,"<unk> souvenir de fac , un prof <unk> l' <unk> <unk> qui vient de la <unk> sur rã : copyright : <unk> , avec un <unk> crevã : copyright : en <unk> , la <unk> du <unk> , il est rentrã : copyright : en <unk> . et bien <unk> : copyright : ( ceux qui avaient fait <unk> : copyright : ologie ) ",0,0,0.08358456939458847,0.08728551864624023
+443,443,jâai mal au ventre jvais crevã : copyright : <unk> ,0,0,0.008972411043941975,0.009012699127197266
+444,444,"<unk> _ y' des <unk> , <unk> : copyright : <unk> et russes , mãªme beaucoup , mais toujours sous les ordres d' un reubeu ",1,0,0.4868721067905426,0.7197538614273071
+445,445,<unk> <unk> pas un reubeu tu peux pas comprendre mon <unk> .. ,0,1,0.6757871508598328,1.1263549327850342
+446,446,sâen sort ou crã¨ve ã    deux ,0,0,0.0044682081788778305,0.00447845458984375
+447,447,<unk> tu veux que la france soit rã : copyright : gie par la <unk> ? ,0,0,0.058077942579984665,0.05983281135559082
+448,448,<unk> <unk> de nazi . url url ,1,1,0.8998386263847351,0.10553985089063644
+449,449,"<unk> <unk> <unk> voyez -vous , je suis <unk> de <unk> un match de ballon <unk> : copyright : avec le <unk> . un gardien fait une dã : copyright : <unk> en italien , des <unk> font le salut nazi en tribune . arrive messi , la <unk> <unk> <unk> du ",0,1,0.8250411748886108,1.7432047128677368
+450,450,tout fait d' <unk> . et <unk> les <unk> des <unk> <unk> qui ont crevã : copyright : ã    cause d' eux . url ,0,0,0.01678316853940487,0.016925811767578125
+451,451,<unk> <unk> oui câest ã : copyright : trange ( en plus dâãªtre interdit ã    <unk> de <unk> ) pas un vieux vã : copyright : lo crevã : copyright : quâil <unk> comme <unk> ? ,0,0,0.07282570004463196,0.07561373710632324
+452,452,par contre <unk> encore et tjr incroyable mon nazi ,1,1,0.7754392027854919,0.2543257772922516
+453,453,j' aurais prã : copyright : fã : copyright : rã : copyright : e qu' crã¨ve un <unk> pour pas le voir dans les <unk> d' une autre ,0,0,0.031836602836847305,0.03235435485839844
+454,454,mãªme si <unk> semble enfin faire <unk> ã    <unk> ces <unk> temps et malgrã : copyright : les 5 buts / <unk> lors de ces <unk> <unk> . je pense tjrs quâil est bridã : copyright : par <unk> et je souhaite quâil <unk> <unk> ce club et avoir les <unk> de <unk> <unk> ailleurs <unk> url ,0,1,0.7944088578224182,1.581865668296814
+455,455,jâai plus <unk> de rã : copyright : <unk> nã : copyright : gro jâai <unk> <unk> ,0,0,0.20429520308971405,0.22852694988250732
+456,456,""" <unk> <unk> , l' autre nazi <unk> de la <unk> de <unk> ",0,1,0.8739345073699951,2.070953607559204
+457,457,<unk> le pã¨re <unk> c est le 25 <unk> % de la droite <unk> : copyright : chez marine pas chez le petit hitler ,1,1,0.7835648059844971,0.24390150606632233
+458,458,"<unk> <unk> <unk> bravo bravo , vous venez <unk> que le vaccin nâest pas lã    pour dire au covid <unk> , tu ne rentre <unk> , mais plutã´t pour ã : copyright : viter que tu crã¨ve du covid . ",0,0,0.004462279379367828,0.004472255706787109
+459,459,<unk> t' es comme une <unk> tu <unk> tout sur ton chemin .. ai fort negro ! ! ,0,0,0.553161084651947,0.8055570125579834
+460,460,assez dã : copyright : <unk> de <unk> que pleurer ne rã : copyright : <unk> pas un pneu crevã : copyright : mdr ,0,0,0.016416653990745544,0.01655292510986328
+461,461,"<unk> quand , certains jours , est un pneu crevã : copyright : ",0,0,0.017714671790599823,0.017873287200927734
+462,462,<unk> @zemmoureric pourquoi tu <unk> un nazi et <unk> ,0,1,0.814949631690979,1.6871269941329956
+463,463,mon <unk> au beur <unk> ? ? ? ? <unk> <unk> ,0,0,0.3195720314979553,0.38503336906433105
+464,464,"<unk> _ putain lui si il ne parle pas 25 fois par jour de l' <unk> <unk> il crã¨ve , cette grosse tãªte de <unk> la . ",0,0,0.012341928668320179,0.012418746948242188
+465,465,<unk> <unk> le <unk> des <unk> morts .... comme si hitler et staline <unk> une <unk> ... <unk> <unk> ,1,0,0.18697579205036163,1.6767761707305908
+466,466,<unk> si suis cette logique les anti hitler <unk> des anti allemands ? c' est en ã§a que je trouve que ã§a va un peu loin . ne <unk> tu pas ? ,0,0,0.017261138185858727,0.01741170883178711
+467,467,""" <unk> ok dã : copyright : jã    jte met en situation : ",0,0,0.013346889056265354,0.01343679428100586
+468,468,@dadoo5152 @alainduhamel deux poids deux <unk> . j ai vu l <unk> c ã : copyright : tait ã    charge . <unk> l <unk> : copyright : de le <unk> et je suis loin des idã : copyright : es de zemour . les gens comme ce journaliste n ont rien compris . au lieu de l <unk> sur ses idã : copyright : es . ,0,0,0.13688483834266663,0.1472071409225464
+469,469,<unk> <unk> @actufoot _ <unk> yâa eu 3 et un de sa faute . faut pas oublier quâil est bridã : copyright : ã    cause de sa <unk> en <unk> ,0,0,0.4397040009498596,0.5792900323867798
+470,470,<unk> mais <unk> apres <unk> crois tjrs pas mâa crevã : copyright : un pneu wsh ,0,0,0.037551265209913254,0.038274526596069336
+471,471,""" <unk> <unk> <unk> zemmour , le pen , ton oncle ... ",1,0,0.622127890586853,0.4746096730232239
+472,472,<unk> @cnews la <unk> viens de s' <unk> comme un ballon crevã : copyright : . il va encore bien retourner sa veste je ne <unk> pas <unk> ,0,0,0.14961719512939453,0.16206872463226318
+473,473,""" <unk> <unk> la <unk> la ã    peine fait <unk> que ã§a en ã : copyright : tait de trop , et il crã : copyright : ation , <unk> : copyright : moi , je souffre de trop ! ! <unk>  ð¤£ ",0,0,0.029253674671053886,0.029690027236938477
+474,474,<unk> <unk> <unk> <unk> que ce <unk> de macron / omicron <unk> comme hitler ! ! ! ,1,1,0.8113437294960022,0.20906341075897217
+475,475,"<unk> <unk> <unk> <unk> @zemmoureric il nây rien de drã´le , ã    part que vous dites que la race <unk> est <unk> , ce qui est <unk> aux discours dâhitler ",0,0,0.6188366413116455,0.9645273685455322
+476,476,"<unk> <unk> <unk> mais câest pas le genre qui est <unk> en avant câest le bien - ãtre et <unk> ptn , si tu ne <unk> pas au genre <unk> : copyright : ã    la naissance et que tu sens que tu dois faire des <unk> : copyright : rations mã : copyright : <unk> pou ",0,0,0.042131684720516205,0.0430450439453125
+477,477,faut savoir quâon pourrait faire le parallã¨le entre zemmour aujourdâhui et hitler en 30 hein ,1,0,0.05786963179707527,2.849562406539917
+478,478,""" <unk> @bfmtv je lui ai dit qu' se <unk> ",0,0,0.15543629229068756,0.16893506050109863
+479,479,<unk> tarã : copyright : ! <unk> qu' il crã¨ve ! ,0,0,0.005845571868121624,0.005862712860107422
+480,480,"<unk> <unk> vous faites des <unk> : <unk> et racisme n' ont rien ã    voir . un exemple <unk> ã : copyright : <unk> vichy , c' est qu' il ã : copyright : tait impossible d' ãªtre <unk> sans ãªtre de <unk> un <unk> ã    la <unk> . hitler avait clairement dit dans ",0,1,0.6285935640335083,0.9904582500457764
+481,481,â«â   lâã : copyright : <unk> est negre et la raison <unk>   â » â ¦ url ,1,1,0.7477241158485413,0.2907211184501648
+482,482,<unk> jâte jure est crevã : copyright : ! ! ! ,0,0,0.012077954597771168,0.012151718139648438
+483,483,"<unk> bien ã : copyright : <unk> : copyright : et dã : copyright : <unk> par ces <unk> <unk> du fameux groupe d' <unk> . ã croire que ce pays est dirigã : copyright : par des cons et des <unk> qui sont <unk> : copyright : <unk> , pendant que le citoyen se crã¨ve ã    <unk> les deux <unk> . vous ãªtes ",0,0,0.018238792195916176,0.018407344818115234
+484,484,"dã¨s que tu vois un nã : copyright : gro long , <unk> , ã : copyright : couter <unk> qui <unk> comme dans un <unk> systã¨me , c' est <unk> . ",1,0,0.4144698977470398,0.8807549476623535
+485,485,""" c' est pas la sociã : copyright : tã : copyright : dans son ensemble qui <unk> mã : copyright : <unk> ã    l' extrãªme - droite , c' est sa reprã : copyright : <unk> politique <unk> de ses ã : copyright : <unk> <unk> : copyright : es . "" "" plutã´t hitler que le front populaire "" "" encore et toujours pour ces gens lã   . "" ",1,0,0.04640653729438782,3.070314884185791
+486,486,<unk> sal noir <unk> ,1,1,0.8294702172279358,0.18696807324886322
+487,487,"<unk> <unk> <unk> d' une <unk> antisã : copyright : mite , nazi , qui pense que les <unk> <unk> , que les <unk> sont <unk> nous , que les <unk> sont rã : copyright : elles . que du bon . ",0,0,0.5983551144599915,0.9121869802474976
+488,488,""" <unk> hitler . ",0,0,0.28449299931526184,0.33476388454437256
+489,489,""" <unk> arrãªtez avec vos rãªves ã    la con d' un sauveur <unk> , le tout "" "" <unk> obligatoire "" "" est dans les <unk> et ce n' est pas en ã : copyright : tant crevã : copyright : que vous <unk> votre famille ou votre pays <unk> url ",0,0,0.023855850100517273,0.024145126342773438
+490,490,je crã¨ve ð ,0,0,0.011689642444252968,0.01175832748413086
+491,491,"<unk> je m' en <unk> ã    son <unk> . si j' avais raison qu' il bã : copyright : <unk> , si j' ai eu <unk> qu' il <unk> car j' aurais fait du mieux que j' ai pã » . <unk> , hitler , <unk> , et tant d' autre ã : copyright : taient de gauche . la bonne <unk> : copyright : n' est ni de <unk> ",0,0,0.10845470428466797,0.11479902267456055
+492,492,je crã¨ve url ,0,0,0.006936321966350079,0.006960391998291016
+493,493,""" <unk> <unk> <unk> @lefcl5600 @cyrilhanouna tu <unk> : copyright : tes cours de <unk> pour dire autant de conneries ? ",0,0,0.03923652693629265,0.04002714157104492
+494,494,<unk> <unk> <unk> creve en <unk> nous pã¨te la forme . ,0,0,0.13760896027088165,0.14804649353027344
+495,495,le <unk> ne <unk> jamais mon style ( mais je creve de froid ) ,0,0,0.009151073172688484,0.00919342041015625
+496,496,""" donc tâes lã    tu <unk> , ã : copyright : lã¨ve une fille qui est la fille dâun autre negro <unk> ta femme sais pas tenir ? ",1,1,0.7747012376785278,0.2552778720855713
+497,497,""" <unk> - <unk> , <unk> et <unk> ont <unk> : copyright : le "" "" negro "" "" , <unk> "" ",1,0,0.5811379551887512,0.5427671074867249
+498,498,<unk> bah je prã : copyright : fã¨re ãªtre un rat que un nazi ,1,1,0.7141293287277222,0.3366912007331848
+499,499,<unk> es un nazi de <unk> url ,1,1,0.8885409235954285,0.11817465722560883
+500,500,""" <unk> puis mãªme si tu te <unk> <unk> ? te <unk> pas pour ce <unk> , qu' il crã¨ve & <unk> ; 3 "" ; ",0,0,0.02250576578080654,0.022762775421142578
+501,501,"question <unk> , car <unk> reste une <unk> de passage de la <unk> et grande <unk> vers paris , et <unk> en crã¨ve .. url ",0,0,0.0046491860412061214,0.004660129547119141
+502,502,<unk> <unk> de <unk> en un soir le negro <unk> ,1,1,0.7569465041160583,0.278462678194046
+503,503,faut que je crã¨ve les pneus d' une voiture ,0,0,0.006636989768594503,0.006659030914306641
+504,504,@mariali22364007 @david_granola @woodkid @guillaumetc sauf qu' hitler prã : copyright : <unk> clairement son programme comme <unk> et antisã : copyright : mite . ceux qui l' ont ã : copyright : lu ã : copyright : taient <unk> avec ces valeurs . vous <unk> la <unk> sur la gauche que l' connait n ,0,0,0.5742733478546143,0.8539577722549438
+505,505,""" <unk> bref , <unk> ne critique pas le nazisme en faisant <unk> ã    hitler qu' il n' est pas grand <unk> aux yeux bleus . ",0,0,0.17628592252731323,0.19393181800842285
+506,506,<unk> tâas fait une <unk> nã : copyright : gro tu es <unk> le <unk> du jeu ,0,1,0.6709389686584473,1.1115121841430664
+507,507,<unk> <unk> fdp que il <unk> des balles ce negro clair . mãªme qd il avait fait des bons <unk> il <unk> trop de <unk> . la c' est trop wsh ,1,1,0.7413358688354492,0.2993015646934509
+508,508,"<unk> <unk> <unk> @tpmp je rã : copyright : pã¨te du coup ... pose toi des questions ... pã : copyright : tain ã    fait de <unk> de <unk> , mãªme hitler nâen <unk> pas tant de lui ... câest dur de lire ã§a vraiment ... ",0,1,0.8274679183959961,1.7571719884872437
+509,509,sal noir url ,1,1,0.8663336038589478,0.1434851884841919
+510,510,""" @malopedia sur le point <unk> de l <unk> fasciste , voici mon analyse , , <unk> en <unk> : ",0,0,0.17818598449230194,0.19624114036560059
+511,511,<unk> <unk> nn en gros câest pour rire avec lui mais genre de base il <unk> promis que si un jour il creve il donne tout ses <unk> et mtn il dit que la moitiã : copyright : .. ,0,0,0.011805236339569092,0.011875629425048828
+512,512,elle dit â«â   mais elle est <unk>   â » url ,1,0,0.12609834969043732,2.070693016052246
+513,513,"<unk> <unk> hitler n' jamais ã : copyright : tã : copyright : ã : copyright : lu , <unk> ã : copyright : tã : copyright : nommã : copyright : par le <unk> <unk> <unk> <unk> c' est une lã : copyright : <unk> url ",0,0,0.16774244606494904,0.18361330032348633
+514,514,"@emmanuelmacron <unk> un <unk> ! ! il <unk> : copyright : combien lui lâa <unk> ce en fait ? ! en plus de tout ce quâil <unk> : copyright : ? ! et aprã¨s va lui mettre un <unk> de rue un <unk> , une place ? ! et <unk> qui crã¨ve dans la rue , lui rend <unk> ã    lui ? ",0,0,0.05483284592628479,0.05639338493347168
+515,515,"<unk> @david_granola @woodkid @guillaumetc le socialisme reste le socialisme , hitler ã : copyright : tã : copyright : mis au pouvoir par les <unk> allemands <unk> alors <unk> ne raconter ce que vous dit , trop facile , ils vont pas s' <unk> eux - mãªmes ð¤£ ",0,0,0.581037163734436,0.8699730634689331
+516,516,<unk> @gilbertcollard la <unk> : copyright : europã : copyright : <unk> devait avoir un <unk> : copyright : <unk> des <unk> d' <unk> . l ordre <unk> <unk> : copyright : un commission car hitler avait <unk> : copyright : une europe sans <unk> ni <unk> sous domination allemande . la fã : copyright : dã : copyright : <unk> ne dã : copyright : pend ,0,0,0.278774231672287,0.3268030285835266
+517,517,<unk> <unk> <unk> ! coupe le <unk> ! nazi ! <unk> ,1,1,0.8596596717834473,0.15121866762638092
+518,518,"@cnews toujours pas de vaccin , juste un vaccin qui ne marche pas pour juste une <unk> de <unk> qui nâa pas ã : copyright : tã : copyright : <unk> : copyright : et donc qui ne marche pas et ils sont tous <unk> : copyright : ã    faire un vaccin sur le <unk> de cette <unk> <unk> qui nâest quâun <unk> un ",0,0,0.39609494805336,0.5043383836746216
+519,519,""" <unk> la semaine thã : copyright : <unk> sur le <unk> des <unk> <unk> entre l' union europã : copyright : enne et l' amã : copyright : rique <unk> en <unk> avec <unk> de <unk> <unk> sa <unk> : copyright : e ! ",0,0,0.5581353306770325,0.8167515993118286
+520,520,câest pas aujourdâhui jâai mis en <unk> <unk> <unk> si ã    la <unk> ya <unk> de <unk> ã§a va <unk> dans la salle et câest pas mon <unk> veut prendre une place pour <unk> je creve <unk> url ,0,0,0.026834765449166298,0.027201414108276367
+521,521,<unk> non <unk> au bout en faite quitte ã    crevã : copyright : ,0,0,0.007513428572565317,0.007541656494140625
+522,522,"<unk> <unk> <unk> il dit <unk> <unk> est <unk> mode <unk> , une mode ? ? et <unk> en plus ? puis il comparã : copyright : un mec qui veut aider les ã : copyright : <unk> <unk> lâã : copyright : cole mengele , un <unk> nazi qui fait des choses <unk> ",0,1,0.8255783319473267,1.7462794780731201
+523,523,"<unk> @le_figaro l' <unk> connu sa contre <unk> anti communiste partir de <unk> , staline etait l' <unk> <unk> de hitler url ",0,1,0.8636112213134766,1.9922457933425903
+524,524,mais yâa rien ã    dire lã    le <unk> traite de sale nã¨gre ou quoi url ,1,1,0.8744994401931763,0.13410359621047974
+525,525,""" <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> des livre pour une cause . ",0,0,0.31648609042167664,0.3805082440376282
+526,526,"<unk> non merci , le negro est <unk> comme <unk> <unk> url ",1,1,0.8556012511253357,0.1559508889913559
+527,527,â«â   les juifs avec hitler ! â   â » url ,1,0,0.36748042702674866,1.0010851621627808
+528,528,""" <unk> @zemmoureric vous vous dites <unk> d' <unk> mais ne <unk> pas <unk> vos "" "" <unk> "" "" . vous <unk> la dã : copyright : mocratie en <unk> la libertã : copyright : d' <unk> . ",0,0,0.14934512972831726,0.1617487668991089
+529,529,<unk> <unk> <unk> @cyrilhanouna donc quand tous les tarã : copyright : ont <unk> hitler ils avaient raison <unk> ils ã : copyright : taient plus nombreux ? c' est ã§a votre <unk> et sinon des milliards de gens sur la <unk> prennent de la <unk> est ce que nous ,0,1,0.8298705816268921,1.771195888519287
+530,530,""" salut les amis , je vais juste faire une autre petite <unk> pour vous <unk> <unk> pour les <unk> <unk> sur <unk> ! je sais pas quoi vous dire , en ã : copyright : tant honnãªte . ",0,0,0.08006881177425385,0.08345651626586914
+531,531,tu <unk> ? je suis ce bamboula <unk> ,1,0,0.13854385912418365,1.976568341255188
+532,532,<unk> un de mes pneus est crevã : copyright : .. ,0,0,0.010990958660840988,0.011051654815673828
+533,533,<unk> _ <unk> mange pas et crã¨ve ,0,0,0.01652524806559086,0.016663551330566406
+534,534,@damienrieu <unk> logique que les franã§ais se <unk> contre l <unk> : copyright : <unk> fascistes ? tu cru que la majoritã : copyright : des franã§ais ã : copyright : tait fachos ? <unk> toi ! les antifas et les franã§ais anti fascistes ! tes <unk> ne sont qu une <unk> : copyright : ! le <unk> ,1,0,0.5044109225273132,0.6843639612197876
+535,535,""" tu es un fasciste donc je t' interdit . ",0,0,0.028045345097780228,0.028446197509765625
+536,536,<unk> je suis moi mãªme un negro coco jojo ,0,1,0.7598296403884888,1.4264066219329834
+537,537,<unk> _ _ je viens de dire que yâa <unk> <unk> parce <unk> ne <unk> pas leurs faux <unk> <unk> bout ( ce qui fait effet yeux bridã : copyright : â   â » elles disent <unk> ont des <unk> <unk> fin yâa quoi de pas clair la ? ,0,0,0.20463736355304718,0.2289571762084961
+538,538,"<unk> <unk> peut plus partir , <unk> le point depuis le dã : copyright : . des <unk> communiste . des nazi ",1,1,0.8072952628135681,0.21406587958335876
+539,539,"<unk> il <unk> rouge <unk> pour lui laisser les gosses ce , mais elle lâair si crevã : copyright : la <unk> que ã§a <unk> pas je <unk> ¦ . elle <unk> son <unk> ¦ ",0,0,0.6160156726837158,0.9571534395217896
+540,540,""" @alphanumrique2 hitler ã : copyright : tait socialiste . ",0,0,0.036527641117572784,0.03721141815185547
+541,541,<unk> <unk> <unk> <unk> <unk> @zemmoureric hitler dã : copyright : <unk> les <unk> de staline ,0,0,0.5946360230445862,0.9029700756072998
+542,542,<unk> encore un negro qui dã : copyright : <unk> un <unk> url ,1,1,0.7412390112876892,0.29943209886550903
+543,543,@renaudpila il n' pas ã : copyright : tã : copyright : <unk> ã    l' <unk> ? hitler n' pas eu son <unk> des beaux <unk> un juif ! ,0,1,0.7558853626251221,1.4101173877716064
+544,544,""" <unk> , <unk> d' avoir ã : copyright : tã : copyright : <unk> : copyright : , il crã¨ve les pneus d' une voiture de sa sociã : copyright : tã : copyright : . il ã : copyright : tã : copyright : <unk> : copyright : et placã : copyright : en garde ã    vue ",0,0,0.201336070895195,0.2248150110244751
+545,545,<unk> merci <unk> <unk> <unk> non sah toi aussi tu <unk> <unk> creve <unk> ,0,0,0.009404772892594337,0.009449481964111328
+546,546,""" et j' attends <unk> <unk> <unk> mon negro ",0,1,0.7123631834983826,1.2460567951202393
+547,547,"<unk> il est bridã : copyright : dans ce systã¨me , il <unk> mieux en piston droit ",0,0,0.22781290113925934,0.258528470993042
+548,548,""" <unk> <unk> <unk> <unk> oui , je l' connais celle lã   ; je <unk> ã    l' <unk> de l' antisã : copyright : mitisme en dã : copyright : <unk> les nazi . ce qu' il de bien avec les fachos , c' est qu' ils <unk> par se dã : copyright : couvrir "" ; ",0,0,0.3670286238193512,0.45733004808425903
+549,549,""" <unk> arrãªtez avec vos rãªves ã    la con d' un sauveur <unk> , le tout "" "" <unk> obligatoire "" "" est dans les <unk> et ce n' est pas en ã : copyright : tant crevã : copyright : que vous <unk> votre famille ou votre pays <unk> <unk> <unk> <unk> <unk> <unk> url ",0,0,0.07047466188669205,0.07308125495910645
+550,550,""" câest une <unk> ã    la <unk> dâadolf hitler ",1,0,0.41773006319999695,0.8729198575019836
+551,551,""" <unk> <unk> quand c' est l' ã : copyright : tat qui te prend en <unk> tu dis rien hein : confinement , <unk> feu , <unk> de <unk> . par contre quand c' est le peuple ã§a vient <unk> . ",1,0,0.3758549690246582,0.9785518646240234
+552,552,en <unk> sur beur fm pour parler mon prochain combat ainsi que <unk> : copyright : <unk> <unk> url ,0,0,0.039300497621297836,0.04009366035461426
+553,553,fascist republican profiteers nazi coup url ,1,1,0.8903319835662842,0.11616093665361404
+554,554,""" <unk> ce type câest une machine ã    dã : copyright : truire ",0,0,0.24302391707897186,0.278423547744751
+555,555,""" <unk> je pense que vous avez raison , mais <unk> que la â«â   <unk>   â » mã : copyright : <unk> est aussi une des raisons . ",0,0,0.2832154631614685,0.3329799771308899
+556,556,"<unk> ¦ jâte trouve , jâte crã¨ve . ",0,0,0.008186349645256996,0.008220195770263672
+557,557,<unk> <unk> et encore . vu comment ils ont gã : copyright : rã : copyright : <unk> ¦ ,0,0,0.36518624424934387,0.4544236660003662
+558,558,<unk> <unk> je savais <unk> que t' <unk> nazi toi ,1,1,0.824196994304657,0.19334571063518524
+559,559,mãªme adolf hitler avait pas eu un discours aussi <unk> url ,0,0,0.6222067475318909,0.9734081029891968
+560,560,""" <unk> <unk> <unk> , <unk> , <unk> : copyright : <unk> ã    ã : copyright : couter . ",0,0,0.08647000044584274,0.0904390811920166
+561,561,""" <unk> <unk> @afa_paris75 c' est vrai que dans l' <unk> : copyright : retrouve souvent des gauchistes <unk> de la <unk> , du rã : copyright : gime nazi . ð¤ ¡ en <unk> mettre sur le dos de vos opposants vos <unk> dã : copyright : <unk> , vous <unk> parfaitement la <unk> : copyright : dont vous ãªtes les hã : copyright : <unk> . ",0,0,0.1857297271490097,0.20546293258666992
+562,562,<unk> il mã : copyright : rite de crevã : copyright : lui ,0,0,0.032526444643735886,0.03306722640991211
+563,563,fascist republican profiteers nazi coup url ,1,1,0.8903319835662842,0.11616093665361404
+564,564,se <unk> encore pourquoi l' union europã : copyright : enne <unk> et fais venir ã    tous prix des gens venu en europe faire des salut nazi et <unk> des juifs . url ,0,1,0.8464339971542358,1.8736246824264526
+565,565,""" la <unk> des nazis ... ",0,0,0.5039404630661011,0.7010593414306641
+566,566,<unk> ca tâa dit retourne ds <unk> pays negre ,1,1,0.7813015580177307,0.24679408967494965
+567,567,"@portes_thomas <unk> , si je te disais ce que vois venir ... <unk> , <unk> <unk> , j' arrive pas croire , c' est comme un cauchemar , sale <unk> ... elle ressort de sa <unk> , la nazi <unk> ... elle <unk> sur rue , des <unk> , un parti ... la <unk> ",1,1,0.8583043813705444,0.1527964323759079
+568,568,<unk> bande de fdp jâai pas payer 1 jours mon <unk> mdrrrr sal juif ,1,1,0.7979044318199158,0.2257664054632187
+569,569,@mlp_officiel ãa rappelle un peu l' allemagne nazi ou certains <unk> ã : copyright : taient rã : copyright : <unk> : copyright : aux allemands et <unk> aux juifs ð : copyright : ð : copyright : ð : copyright : ð : copyright : ð : copyright : url ,0,0,0.016640840098261833,0.016780853271484375
+570,570,""" <unk> crã¨ve et veut vivre . ",0,0,0.005258501973003149,0.005272388458251953
+571,571,<unk> ah non non non jâai <unk> la crã¨ve comme ã§a ,0,0,0.0049796514213085175,0.004992008209228516

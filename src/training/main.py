@@ -1,6 +1,7 @@
 import tqdm
 import argparse
 import datetime
+import sys
 
 import spacy
 import pandas as pd
@@ -109,7 +110,7 @@ def main(dataloaders, field, model_type, optimizer_type, loss_criterion, lr,
 
     ### Save the model ###
     save_model(model=model, hist=history_training,
-               model_type=model_type, 
+               model_type=model_type, data_type = args.data_type,
                do_save=do_save, do_print=do_print)
 
 
@@ -131,6 +132,9 @@ def main(dataloaders, field, model_type, optimizer_type, loss_criterion, lr,
     return history_training
 
 
+
+
+    
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--training_data", help="unprocessed OLID training dataset", default="data/training_data/offenseval-training-v1.tsv")
@@ -157,7 +161,6 @@ if __name__ == '__main__':
     parser.add_argument("--alpha", default=0.8, type=int, help="")
     parser.add_argument("--data_type", default="en",  help="")
     args = parser.parse_args()
-
     # Data processing
     training_data = args.training_data
     testset_data = args.testset_data

@@ -155,9 +155,10 @@ def get_datasets(training_data, testset_data, test_labels_data, model_type, data
         tweets, classes = format_training_file(training_data, module_path=module_path)
         tweets_test, y_test = format_test_file(testset_data, test_labels_data, module_path=module_path)
     elif data_type == "fr":
-        training_data = pd.read_csv("data/french_train.csv")
+        module_path
+        training_data = pd.read_csv(module_path+"data/french_train.csv")
         tweets, classes = format_training_french_file(training_data, module_path=module_path)
-        testset_data = pd.read_csv("data/french_test.csv")
+        testset_data = pd.read_csv(module_path+"data/french_test.csv")
         tweets_test, y_test = format_training_french_file(testset_data, module_path=module_path)
     elif data_type == "gr":
         training_data = pd.read_csv("data/german_train.csv")

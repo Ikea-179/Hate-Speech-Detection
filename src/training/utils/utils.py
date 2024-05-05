@@ -7,20 +7,11 @@ import torch
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import f1_score
 from sklearn.metrics import mean_squared_error
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
-''' 
-from models.BasicLSTM import BasicLSTM
-from models.BiLSTM import BiLSTM
-from models.Transformers import DistillBert, DistillBertEmotion
-from models.Hybrid_CNN_LSTM import Hybrid_CNN_LSTM, Hybrid_LSTM_CNN, AutoTransformer, PyramidCNN
-from models.Hybrid_LSTM_CNN import Hybrid_LSTM_CNN, AutoTransformer, PyramidCNN
-from models.AutoTransformer import AutoTransformer, PyramidCNN
-from models.PyramidCNN import PyramidCNN'''
 
 #import models
 #from models import BasicLSTM
@@ -29,8 +20,7 @@ import utils.models.BiLSTM as BiLSTM
 import utils.models.Transformers as Transformers
 import utils.models.Hybrid_CNN_LSTM as Hybrid_CNN_LSTM
 import utils.models.Hybrid_LSTM_CNN as Hybrid_LSTM_CNN
-import utils.models.AutoTransformer as AutoTransformer
-import utils.models.PyramidCNN as PyramidCNN
+
 
 SAVED_MODELS_PATH = "saved-models/"
 FIGURES_PATH = "figures/"
@@ -48,17 +38,10 @@ def load_model(model_type, field, device, fix_length=None):
     elif model_type == 'BiLSTM':
         model = BiLSTM.BiLSTM(dim_emb=300, num_words=field.vocab.__len__(), 
                                     hidden_dim=128, num_layers=2, output_dim=1)
-    elif model_type == 'Transformers':
-        model = Transformers.Transformers(dim_emb=128, num_words=field.vocab.__len__(), 
-                                          hidden_dim=128, num_layers=2, output_dim=1)
-    elif model_type == 'TinyBert':
-        model = AutoTransformer.AutoTransformer(dim_emb=128, num_words=field.vocab.__len__(), 
-                                          hidden_dim=128, num_layers=2, output_dim=1, hidden_dropout_prob = 0.5)
+
     elif model_type == 'DistillBert':
         model = Transformers.DistillBert()
 
-    elif model_type == 'DistillBertEmotion':
-        model = Transformers.DistillBertEmotion()
 
     elif model_type == 'HybridCNNLSTM':
 	      model = Hybrid_CNN_LSTM.HybridCNNLSTM()
@@ -83,13 +66,13 @@ def load_trained_model(model, saved_model_path, device):
 
     return model
 
-def save_model(model, hist, model_type, do_save, do_print=False):
+def save_model(model, hist, model_type,data_type, do_save, do_print=False):
     """
     Save the trained model.
     """
     if do_save:
         end_time = hist['end_time']
-        saved_model_path = f"{SAVED_MODELS_PATH}{model_type}_{end_time}_trained_testAcc={hist['test_acc']}.pth"
+        saved_model_path = f"{SAVED_MODELS_PATH}{model_type}_{end_time}_trained_testAcc={hist['test_acc']}{data_type}.pth"
         torch.save(model.state_dict(), saved_model_path)
         if do_print: print(f"Model saved at {saved_model_path}")
 

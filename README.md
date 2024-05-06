@@ -1,6 +1,6 @@
 This repo contains all the source used for the Final Project - Stop Hate Coalition for the course CS2470
 
-**Authors**: Chujun Chen, Sicheng Yang, Yijia Xue, Data Science Initiative, Brown University
+**Authors**: Chujun Chen, Sicheng Yang, Yijia Xue
 **Introduction**: In the modern era, characterized by a vast increase in social media use and online forums, there is a corresponding rise in the visibility of hate speech. This trend poses significant risks, particularly to minority groups, by potentially inciting societal polarization and real-life crimes. To help with creating an inclusive and friendly online communication environment, our project aims to identify one effective model for classifying and detecting hate speech by evaluating various deep learning models – DistillBERT, LSTM, BiLSTM, CNN-LSTM – through both qualitative (visualizations) and quantitative (performance metrics) measures. 
 Numerous studies have explored the use of deep neural networks for detecting hate speech on social media. Yet, most of these models function as ‘black boxes’, obscuring their internal decision-making processes from users. Our project addresses this issue by enhancing the interpretability of these models, offering a transparent, visual representation of the decision-making process, particularly in identifying sentiments and classifying texts with hateful or extremist content.
 
